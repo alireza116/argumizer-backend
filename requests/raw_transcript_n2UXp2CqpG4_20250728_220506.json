@@ -1,0 +1,5600 @@
+{
+  "available_languages": [
+    "ab",
+    "aa",
+    "af",
+    "ak",
+    "sq",
+    "am",
+    "ar",
+    "hy",
+    "as",
+    "ay",
+    "az",
+    "bn",
+    "ba",
+    "eu",
+    "be",
+    "bho",
+    "bs",
+    "br",
+    "bg",
+    "my",
+    "ca",
+    "ceb",
+    "zh-Hans",
+    "zh-Hant",
+    "co",
+    "hr",
+    "cs",
+    "da",
+    "dv",
+    "nl",
+    "dz",
+    "en-orig",
+    "en",
+    "eo",
+    "et",
+    "ee",
+    "fo",
+    "fj",
+    "fil",
+    "fi",
+    "fr",
+    "gaa",
+    "gl",
+    "lg",
+    "ka",
+    "de",
+    "el",
+    "gn",
+    "gu",
+    "ht",
+    "ha",
+    "haw",
+    "iw",
+    "hi",
+    "hmn",
+    "hu",
+    "is",
+    "ig",
+    "id",
+    "iu",
+    "ga",
+    "it",
+    "ja",
+    "jv",
+    "kl",
+    "kn",
+    "kk",
+    "kha",
+    "km",
+    "rw",
+    "ko",
+    "kri",
+    "ku",
+    "ky",
+    "lo",
+    "la",
+    "lv",
+    "ln",
+    "lt",
+    "lua",
+    "luo",
+    "lb",
+    "mk",
+    "mg",
+    "ms",
+    "ml",
+    "mt",
+    "gv",
+    "mi",
+    "mr",
+    "mn",
+    "mfe",
+    "ne",
+    "new",
+    "nso",
+    "no",
+    "ny",
+    "oc",
+    "or",
+    "om",
+    "os",
+    "pam",
+    "ps",
+    "fa",
+    "pl",
+    "pt",
+    "pt-PT",
+    "pa",
+    "qu",
+    "ro",
+    "rn",
+    "ru",
+    "sm",
+    "sg",
+    "sa",
+    "gd",
+    "sr",
+    "crs",
+    "sn",
+    "sd",
+    "si",
+    "sk",
+    "sl",
+    "so",
+    "st",
+    "es",
+    "su",
+    "sw",
+    "ss",
+    "sv",
+    "tg",
+    "ta",
+    "tt",
+    "te",
+    "th",
+    "bo",
+    "ti",
+    "to",
+    "ts",
+    "tn",
+    "tum",
+    "tr",
+    "tk",
+    "uk",
+    "ur",
+    "ug",
+    "uz",
+    "ve",
+    "vi",
+    "war",
+    "cy",
+    "fy",
+    "wo",
+    "xh",
+    "yi",
+    "yo",
+    "zu"
+  ],
+  "language": "en",
+  "success": true,
+  "transcript": [
+    {
+      "end_time": 8.48,
+      "end_time_text": "00:00:08,480",
+      "index": 1,
+      "start_time": 2.879,
+      "start_time_text": "00:00:02,879",
+      "text": "there's a real problem here and it's"
+    },
+    {
+      "end_time": 11.88,
+      "end_time_text": "00:00:11,880",
+      "index": 2,
+      "start_time": 5.319,
+      "start_time_text": "00:00:05,319",
+      "text": "been a problem I've had over many years"
+    },
+    {
+      "end_time": 14.36,
+      "end_time_text": "00:00:14,360",
+      "index": 3,
+      "start_time": 8.48,
+      "start_time_text": "00:00:08,480",
+      "text": "of reading your work apart perhaps from"
+    },
+    {
+      "end_time": 17.199,
+      "end_time_text": "00:00:17,199",
+      "index": 4,
+      "start_time": 11.88,
+      "start_time_text": "00:00:11,880",
+      "text": "a grandchild I suspect nobody knows your"
+    },
+    {
+      "end_time": 20.32,
+      "end_time_text": "00:00:20,320",
+      "index": 5,
+      "start_time": 14.36,
+      "start_time_text": "00:00:14,360",
+      "text": "work better than I do I've read it many"
+    },
+    {
+      "end_time": 22.24,
+      "end_time_text": "00:00:22,240",
+      "index": 6,
+      "start_time": 17.199,
+      "start_time_text": "00:00:17,199",
+      "text": "times not once not twice at least three"
+    },
+    {
+      "end_time": 25.199,
+      "end_time_text": "00:00:25,199",
+      "index": 7,
+      "start_time": 20.32,
+      "start_time_text": "00:00:20,320",
+      "text": "times everything you've"
+    },
+    {
+      "end_time": 30.679,
+      "end_time_text": "00:00:30,679",
+      "index": 8,
+      "start_time": 22.24,
+      "start_time_text": "00:00:22,240",
+      "text": "written and the problem is it's a kind"
+    },
+    {
+      "end_time": 35.04,
+      "end_time_text": "00:00:35,040",
+      "index": 9,
+      "start_time": 25.199,
+      "start_time_text": "00:00:25,199",
+      "text": "of Quicks silver you very hard to grasp"
+    },
+    {
+      "end_time": 38.28,
+      "end_time_text": "00:00:38,280",
+      "index": 10,
+      "start_time": 30.679,
+      "start_time_text": "00:00:30,679",
+      "text": "a point and hold you to it so we're"
+    },
+    {
+      "end_time": 41.0,
+      "end_time_text": "00:00:41,000",
+      "index": 11,
+      "start_time": 35.04,
+      "start_time_text": "00:00:35,040",
+      "text": "going to try here to see whether we can"
+    },
+    {
+      "end_time": 43.84,
+      "end_time_text": "00:00:43,840",
+      "index": 12,
+      "start_time": 38.28,
+      "start_time_text": "00:00:38,280",
+      "text": "hold you to a point and then you argue"
+    },
+    {
+      "end_time": 45.8,
+      "end_time_text": "00:00:45,800",
+      "index": 13,
+      "start_time": 41.0,
+      "start_time_text": "00:00:41,000",
+      "text": "with me the point I have no problem with"
+    },
+    {
+      "end_time": 49.92,
+      "end_time_text": "00:00:49,920",
+      "index": 14,
+      "start_time": 43.84,
+      "start_time_text": "00:00:43,840",
+      "text": "that"
+    },
+    {
+      "end_time": 53.28,
+      "end_time_text": "00:00:53,280",
+      "index": 15,
+      "start_time": 45.8,
+      "start_time_text": "00:00:45,800",
+      "text": "uh your name please Steven banel okay Mr"
+    },
+    {
+      "end_time": 54.92,
+      "end_time_text": "00:00:54,920",
+      "index": 16,
+      "start_time": 49.92,
+      "start_time_text": "00:00:49,920",
+      "text": "banel referred to cherry picking and"
+    },
+    {
+      "end_time": 56.84,
+      "end_time_text": "00:00:56,840",
+      "index": 17,
+      "start_time": 53.28,
+      "start_time_text": "00:00:53,280",
+      "text": "handful of"
+    },
+    {
+      "end_time": 59.64,
+      "end_time_text": "00:00:59,640",
+      "index": 18,
+      "start_time": 54.92,
+      "start_time_text": "00:00:54,920",
+      "text": "quotes"
+    },
+    {
+      "end_time": 63.64,
+      "end_time_text": "00:01:03,640",
+      "index": 19,
+      "start_time": 56.84,
+      "start_time_text": "00:00:56,840",
+      "text": "now it's true that when you wrote your"
+    },
+    {
+      "end_time": 66.72,
+      "end_time_text": "00:01:06,720",
+      "index": 20,
+      "start_time": 59.64,
+      "start_time_text": "00:00:59,640",
+      "text": "first book on the Palestinian refugee"
+    },
+    {
+      "end_time": 69.56,
+      "end_time_text": "00:01:09,560",
+      "index": 21,
+      "start_time": 63.64,
+      "start_time_text": "00:01:03,640",
+      "text": "question you only had a few lines on"
+    },
+    {
+      "end_time": 71.04,
+      "end_time_text": "00:01:11,040",
+      "index": 22,
+      "start_time": 66.72,
+      "start_time_text": "00:01:06,720",
+      "text": "this issue of transfer four pages yeah"
+    },
+    {
+      "end_time": 72.479,
+      "end_time_text": "00:01:12,479",
+      "index": 23,
+      "start_time": 69.56,
+      "start_time_text": "00:01:09,560",
+      "text": "in the first book in the first book four"
+    },
+    {
+      "end_time": 75.08,
+      "end_time_text": "00:01:15,080",
+      "index": 24,
+      "start_time": 71.04,
+      "start_time_text": "00:01:11,040",
+      "text": "pages maybe four you know I'm not going"
+    },
+    {
+      "end_time": 77.119,
+      "end_time_text": "00:01:17,119",
+      "index": 25,
+      "start_time": 72.479,
+      "start_time_text": "00:01:12,479",
+      "text": "to quarrel my memory is not clear we're"
+    },
+    {
+      "end_time": 78.72,
+      "end_time_text": "00:01:18,720",
+      "index": 26,
+      "start_time": 75.08,
+      "start_time_text": "00:01:15,080",
+      "text": "talking about 40 years ago I read it I"
+    },
+    {
+      "end_time": 82.52,
+      "end_time_text": "00:01:22,520",
+      "index": 27,
+      "start_time": 77.119,
+      "start_time_text": "00:01:17,119",
+      "text": "read it but then I read other things by"
+    },
+    {
+      "end_time": 86.479,
+      "end_time_text": "00:01:26,479",
+      "index": 28,
+      "start_time": 78.72,
+      "start_time_text": "00:01:18,720",
+      "text": "you okay and you were taken to task if"
+    },
+    {
+      "end_time": 89.92,
+      "end_time_text": "00:01:29,920",
+      "index": 29,
+      "start_time": 82.52,
+      "start_time_text": "00:01:22,520",
+      "text": "my memory is correct that you hadn't"
+    },
+    {
+      "end_time": 93.32,
+      "end_time_text": "00:01:33,320",
+      "index": 30,
+      "start_time": 86.479,
+      "start_time_text": "00:01:26,479",
+      "text": "adequately documented the claims of"
+    },
+    {
+      "end_time": 95.96,
+      "end_time_text": "00:01:35,960",
+      "index": 31,
+      "start_time": 89.92,
+      "start_time_text": "00:01:29,920",
+      "text": "transfer let me allow me to finish and I"
+    },
+    {
+      "end_time": 99.04,
+      "end_time_text": "00:01:39,040",
+      "index": 32,
+      "start_time": 93.32,
+      "start_time_text": "00:01:33,320",
+      "text": "thought that was a reasonable challenge"
+    },
+    {
+      "end_time": 102.479,
+      "end_time_text": "00:01:42,479",
+      "index": 33,
+      "start_time": 95.96,
+      "start_time_text": "00:01:35,960",
+      "text": "because it was an unusual claim for a"
+    },
+    {
+      "end_time": 105.6,
+      "end_time_text": "00:01:45,600",
+      "index": 34,
+      "start_time": 99.04,
+      "start_time_text": "00:01:39,040",
+      "text": "mainstream Israeli historian to say as"
+    },
+    {
+      "end_time": 108.92,
+      "end_time_text": "00:01:48,920",
+      "index": 35,
+      "start_time": 102.479,
+      "start_time_text": "00:01:42,479",
+      "text": "you did in that first book that from the"
+    },
+    {
+      "end_time": 111.88,
+      "end_time_text": "00:01:51,880",
+      "index": 36,
+      "start_time": 105.6,
+      "start_time_text": "00:01:45,600",
+      "text": "very beginning transfer figured"
+    },
+    {
+      "end_time": 114.479,
+      "end_time_text": "00:01:54,479",
+      "index": 37,
+      "start_time": 108.92,
+      "start_time_text": "00:01:48,920",
+      "text": "prominently in Zionist thinking that"
+    },
+    {
+      "end_time": 117.799,
+      "end_time_text": "00:01:57,799",
+      "index": 38,
+      "start_time": 111.88,
+      "start_time_text": "00:01:51,880",
+      "text": "wasn't unusual if you read Anita shapir"
+    },
+    {
+      "end_time": 121.32,
+      "end_time_text": "00:02:01,320",
+      "index": 39,
+      "start_time": 114.479,
+      "start_time_text": "00:01:54,479",
+      "text": "shapira you read chapai teit that was an"
+    },
+    {
+      "end_time": 125.439,
+      "end_time_text": "00:02:05,439",
+      "index": 40,
+      "start_time": 117.799,
+      "start_time_text": "00:01:57,799",
+      "text": "unusual acknowledgement by"
+    },
+    {
+      "end_time": 129.239,
+      "end_time_text": "00:02:09,239",
+      "index": 41,
+      "start_time": 121.32,
+      "start_time_text": "00:02:01,320",
+      "text": "and then I found it very"
+    },
+    {
+      "end_time": 134.92,
+      "end_time_text": "00:02:14,920",
+      "index": 42,
+      "start_time": 125.439,
+      "start_time_text": "00:02:05,439",
+      "text": "impressive that in that revised version"
+    },
+    {
+      "end_time": 137.12,
+      "end_time_text": "00:02:17,120",
+      "index": 43,
+      "start_time": 129.239,
+      "start_time_text": "00:02:09,239",
+      "text": "of your first book you devoted 25"
+    },
+    {
+      "end_time": 138.76,
+      "end_time_text": "00:02:18,760",
+      "index": 44,
+      "start_time": 134.92,
+      "start_time_text": "00:02:14,920",
+      "text": "pages to"
+    },
+    {
+      "end_time": 140.76,
+      "end_time_text": "00:02:20,760",
+      "index": 45,
+      "start_time": 137.12,
+      "start_time_text": "00:02:17,120",
+      "text": "copiously"
+    },
+    {
+      "end_time": 147.04,
+      "end_time_text": "00:02:27,040",
+      "index": 46,
+      "start_time": 138.76,
+      "start_time_text": "00:02:18,760",
+      "text": "documenting the"
+    },
+    {
+      "end_time": 151.04,
+      "end_time_text": "00:02:31,040",
+      "index": 47,
+      "start_time": 140.76,
+      "start_time_text": "00:02:20,760",
+      "text": "salience of transfer in Zionist thinking"
+    },
+    {
+      "end_time": 156.319,
+      "end_time_text": "00:02:36,319",
+      "index": 48,
+      "start_time": 147.04,
+      "start_time_text": "00:02:27,040",
+      "text": "and in fact you used a very"
+    },
+    {
+      "end_time": 160.72,
+      "end_time_text": "00:02:40,720",
+      "index": 49,
+      "start_time": 151.04,
+      "start_time_text": "00:02:31,040",
+      "text": "provocative and resonant phrase you said"
+    },
+    {
+      "end_time": 163.12,
+      "end_time_text": "00:02:43,120",
+      "index": 50,
+      "start_time": 156.319,
+      "start_time_text": "00:02:36,319",
+      "text": "that transfer was"
+    },
+    {
+      "end_time": 166.84,
+      "end_time_text": "00:02:46,840",
+      "index": 51,
+      "start_time": 160.72,
+      "start_time_text": "00:02:40,720",
+      "text": "inevitable and"
+    },
+    {
+      "end_time": 172.319,
+      "end_time_text": "00:02:52,319",
+      "index": 52,
+      "start_time": 163.12,
+      "start_time_text": "00:02:43,120",
+      "text": "inbuilt into Zionism we're not talking"
+    },
+    {
+      "end_time": 175.879,
+      "end_time_text": "00:02:55,879",
+      "index": 53,
+      "start_time": 166.84,
+      "start_time_text": "00:02:46,840",
+      "text": "about circumstantial factors a war Arab"
+    },
+    {
+      "end_time": 181.239,
+      "end_time_text": "00:03:01,239",
+      "index": 54,
+      "start_time": 172.319,
+      "start_time_text": "00:02:52,319",
+      "text": "hostility you said it's"
+    },
+    {
+      "end_time": 184.599,
+      "end_time_text": "00:03:04,599",
+      "index": 55,
+      "start_time": 175.879,
+      "start_time_text": "00:02:55,879",
+      "text": "inevitable and inbuilt into Zionism"
+    },
+    {
+      "end_time": 188.68,
+      "end_time_text": "00:03:08,680",
+      "index": 56,
+      "start_time": 181.239,
+      "start_time_text": "00:03:01,239",
+      "text": "now as I said so we won't be accused of"
+    },
+    {
+      "end_time": 194.2,
+      "end_time_text": "00:03:14,200",
+      "index": 57,
+      "start_time": 184.599,
+      "start_time_text": "00:03:04,599",
+      "text": "cherry picking those were"
+    },
+    {
+      "end_time": 197.799,
+      "end_time_text": "00:03:17,799",
+      "index": 58,
+      "start_time": 188.68,
+      "start_time_text": "00:03:08,680",
+      "text": "25 very densely argued"
+    },
+    {
+      "end_time": 200.12,
+      "end_time_text": "00:03:20,120",
+      "index": 59,
+      "start_time": 194.2,
+      "start_time_text": "00:03:14,200",
+      "text": "pages and then in an interview and I"
+    },
+    {
+      "end_time": 205.28,
+      "end_time_text": "00:03:25,280",
+      "index": 60,
+      "start_time": 197.799,
+      "start_time_text": "00:03:17,799",
+      "text": "could cite several quotes but I'll"
+    },
+    {
+      "end_time": 207.599,
+      "end_time_text": "00:03:27,599",
+      "index": 61,
+      "start_time": 200.12,
+      "start_time_text": "00:03:20,120",
+      "text": "choose one you said removing a"
+    },
+    {
+      "end_time": 210.68,
+      "end_time_text": "00:03:30,680",
+      "index": 62,
+      "start_time": 205.28,
+      "start_time_text": "00:03:25,280",
+      "text": "population was"
+    },
+    {
+      "end_time": 214.4,
+      "end_time_text": "00:03:34,400",
+      "index": 63,
+      "start_time": 207.599,
+      "start_time_text": "00:03:27,599",
+      "text": "needed let's look at the words"
+    },
+    {
+      "end_time": 218.56,
+      "end_time_text": "00:03:38,560",
+      "index": 64,
+      "start_time": 210.68,
+      "start_time_text": "00:03:30,680",
+      "text": "without a population"
+    },
+    {
+      "end_time": 220.2,
+      "end_time_text": "00:03:40,200",
+      "index": 65,
+      "start_time": 214.4,
+      "start_time_text": "00:03:34,400",
+      "text": "exposion a Jewish state would not have"
+    },
+    {
+      "end_time": 224.92,
+      "end_time_text": "00:03:44,920",
+      "index": 66,
+      "start_time": 218.56,
+      "start_time_text": "00:03:38,560",
+      "text": "been"
+    },
+    {
+      "end_time": 228.76,
+      "end_time_text": "00:03:48,760",
+      "index": 67,
+      "start_time": 220.2,
+      "start_time_text": "00:03:40,200",
+      "text": "established now you were the one again I"
+    },
+    {
+      "end_time": 231.76,
+      "end_time_text": "00:03:51,760",
+      "index": 68,
+      "start_time": 224.92,
+      "start_time_text": "00:03:44,920",
+      "text": "was very surprised when I read your book"
+    },
+    {
+      "end_time": 234.239,
+      "end_time_text": "00:03:54,239",
+      "index": 69,
+      "start_time": 228.76,
+      "start_time_text": "00:03:48,760",
+      "text": "here I'm referring to righteous victims"
+    },
+    {
+      "end_time": 236.12,
+      "end_time_text": "00:03:56,120",
+      "index": 70,
+      "start_time": 231.76,
+      "start_time_text": "00:03:51,760",
+      "text": "I was very surprised when I came to that"
+    },
+    {
+      "end_time": 241.239,
+      "end_time_text": "00:04:01,239",
+      "index": 71,
+      "start_time": 234.239,
+      "start_time_text": "00:03:54,239",
+      "text": "page"
+    },
+    {
+      "end_time": 243.28,
+      "end_time_text": "00:04:03,280",
+      "index": 72,
+      "start_time": 236.12,
+      "start_time_text": "00:03:56,120",
+      "text": "37 where you wrote that territorial"
+    },
+    {
+      "end_time": 247.76,
+      "end_time_text": "00:04:07,760",
+      "index": 73,
+      "start_time": 241.239,
+      "start_time_text": "00:04:01,239",
+      "text": "displacement and"
+    },
+    {
+      "end_time": 249.599,
+      "end_time_text": "00:04:09,599",
+      "index": 74,
+      "start_time": 243.28,
+      "start_time_text": "00:04:03,280",
+      "text": "dispossession was the CH Chief motor of"
+    },
+    {
+      "end_time": 253.319,
+      "end_time_text": "00:04:13,319",
+      "index": 75,
+      "start_time": 247.76,
+      "start_time_text": "00:04:07,760",
+      "text": "Arab resistance to"
+    },
+    {
+      "end_time": 256.44,
+      "end_time_text": "00:04:16,440",
+      "index": 76,
+      "start_time": 249.599,
+      "start_time_text": "00:04:09,599",
+      "text": "Zionism territorial displacement and"
+    },
+    {
+      "end_time": 258.4,
+      "end_time_text": "00:04:18,400",
+      "index": 77,
+      "start_time": 253.319,
+      "start_time_text": "00:04:13,319",
+      "text": "dispossession were the chief motor of"
+    },
+    {
+      "end_time": 263.0,
+      "end_time_text": "00:04:23,000",
+      "index": 78,
+      "start_time": 256.44,
+      "start_time_text": "00:04:16,440",
+      "text": "Arab resistance to"
+    },
+    {
+      "end_time": 265.08,
+      "end_time_text": "00:04:25,080",
+      "index": 79,
+      "start_time": 258.4,
+      "start_time_text": "00:04:18,400",
+      "text": "Zionism so you then went on to say"
+    },
+    {
+      "end_time": 267.88,
+      "end_time_text": "00:04:27,880",
+      "index": 80,
+      "start_time": 263.0,
+      "start_time_text": "00:04:23,000",
+      "text": "because the Arab"
+    },
+    {
+      "end_time": 271.639,
+      "end_time_text": "00:04:31,639",
+      "index": 81,
+      "start_time": 265.08,
+      "start_time_text": "00:04:25,080",
+      "text": "population rationally"
+    },
+    {
+      "end_time": 275.12,
+      "end_time_text": "00:04:35,120",
+      "index": 82,
+      "start_time": 267.88,
+      "start_time_text": "00:04:27,880",
+      "text": "feared territorial displacement and"
+    },
+    {
+      "end_time": 279.039,
+      "end_time_text": "00:04:39,039",
+      "index": 83,
+      "start_time": 271.639,
+      "start_time_text": "00:04:31,639",
+      "text": "dispossession it of course opposed"
+    },
+    {
+      "end_time": 281.919,
+      "end_time_text": "00:04:41,919",
+      "index": 84,
+      "start_time": 275.12,
+      "start_time_text": "00:04:35,120",
+      "text": "Zionism that's as normal as Native"
+    },
+    {
+      "end_time": 284.68,
+      "end_time_text": "00:04:44,680",
+      "index": 85,
+      "start_time": 279.039,
+      "start_time_text": "00:04:39,039",
+      "text": "Americans opposing the"
+    },
+    {
+      "end_time": 287.6,
+      "end_time_text": "00:04:47,600",
+      "index": 86,
+      "start_time": 281.919,
+      "start_time_text": "00:04:41,919",
+      "text": "euroamerican Manifest Destiny in the"
+    },
+    {
+      "end_time": 290.36,
+      "end_time_text": "00:04:50,360",
+      "index": 87,
+      "start_time": 284.68,
+      "start_time_text": "00:04:44,680",
+      "text": "history of our own country because they"
+    },
+    {
+      "end_time": 294.56,
+      "end_time_text": "00:04:54,560",
+      "index": 88,
+      "start_time": 287.6,
+      "start_time_text": "00:04:47,600",
+      "text": "understood it would be at their"
+    },
+    {
+      "end_time": 298.479,
+      "end_time_text": "00:04:58,479",
+      "index": 89,
+      "start_time": 290.36,
+      "start_time_text": "00:04:50,360",
+      "text": "expense it was inbuilt and"
+    },
+    {
+      "end_time": 301.08,
+      "end_time_text": "00:05:01,080",
+      "index": 90,
+      "start_time": 294.56,
+      "start_time_text": "00:04:54,560",
+      "text": "inevitable and so now for you to come"
+    },
+    {
+      "end_time": 303.24,
+      "end_time_text": "00:05:03,240",
+      "index": 91,
+      "start_time": 298.479,
+      "start_time_text": "00:04:58,479",
+      "text": "along and say that it all happened just"
+    },
+    {
+      "end_time": 307.28,
+      "end_time_text": "00:05:07,280",
+      "index": 92,
+      "start_time": 301.08,
+      "start_time_text": "00:05:01,080",
+      "text": "because of the"
+    },
+    {
+      "end_time": 310.68,
+      "end_time_text": "00:05:10,680",
+      "index": 93,
+      "start_time": 303.24,
+      "start_time_text": "00:05:03,240",
+      "text": "war that otherwise the Zionist made all"
+    },
+    {
+      "end_time": 315.08,
+      "end_time_text": "00:05:15,080",
+      "index": 94,
+      "start_time": 307.28,
+      "start_time_text": "00:05:07,280",
+      "text": "these plans for a happy minority to live"
+    },
+    {
+      "end_time": 318.199,
+      "end_time_text": "00:05:18,199",
+      "index": 95,
+      "start_time": 310.68,
+      "start_time_text": "00:05:10,680",
+      "text": "there that simply does not gel it does"
+    },
+    {
+      "end_time": 321.12,
+      "end_time_text": "00:05:21,120",
+      "index": 96,
+      "start_time": 315.08,
+      "start_time_text": "00:05:15,080",
+      "text": "not cohere it is not"
+    },
+    {
+      "end_time": 325.0,
+      "end_time_text": "00:05:25,000",
+      "index": 97,
+      "start_time": 318.199,
+      "start_time_text": "00:05:18,199",
+      "text": "reconcilable with what you yourself have"
+    },
+    {
+      "end_time": 327.56,
+      "end_time_text": "00:05:27,560",
+      "index": 98,
+      "start_time": 321.12,
+      "start_time_text": "00:05:21,120",
+      "text": "written it was inevitable and inbuilt"
+    },
+    {
+      "end_time": 331.4,
+      "end_time_text": "00:05:31,400",
+      "index": 99,
+      "start_time": 325.0,
+      "start_time_text": "00:05:25,000",
+      "text": "now in other situations you've"
+    },
+    {
+      "end_time": 335.8,
+      "end_time_text": "00:05:35,800",
+      "index": 100,
+      "start_time": 327.56,
+      "start_time_text": "00:05:27,560",
+      "text": "said that's true but I think it was a"
+    },
+    {
+      "end_time": 338.4,
+      "end_time_text": "00:05:38,400",
+      "index": 101,
+      "start_time": 331.4,
+      "start_time_text": "00:05:31,400",
+      "text": "greater good to establish a Jewish State"
+    },
+    {
+      "end_time": 340.44,
+      "end_time_text": "00:05:40,440",
+      "index": 102,
+      "start_time": 335.8,
+      "start_time_text": "00:05:35,800",
+      "text": "at the expense of the uh indigenous"
+    },
+    {
+      "end_time": 342.52,
+      "end_time_text": "00:05:42,520",
+      "index": 103,
+      "start_time": 338.4,
+      "start_time_text": "00:05:38,400",
+      "text": "population that's another kind of"
+    },
+    {
+      "end_time": 345.759,
+      "end_time_text": "00:05:45,759",
+      "index": 104,
+      "start_time": 340.44,
+      "start_time_text": "00:05:40,440",
+      "text": "argument that was Theodore Roosevelt's"
+    },
+    {
+      "end_time": 348.12,
+      "end_time_text": "00:05:48,120",
+      "index": 105,
+      "start_time": 342.52,
+      "start_time_text": "00:05:42,520",
+      "text": "argument in our own country he said we"
+    },
+    {
+      "end_time": 349.319,
+      "end_time_text": "00:05:49,319",
+      "index": 106,
+      "start_time": 345.759,
+      "start_time_text": "00:05:45,759",
+      "text": "don't want the whole of North America to"
+    },
+    {
+      "end_time": 353.28,
+      "end_time_text": "00:05:53,280",
+      "index": 107,
+      "start_time": 348.12,
+      "start_time_text": "00:05:48,120",
+      "text": "remain a"
+    },
+    {
+      "end_time": 355.479,
+      "end_time_text": "00:05:55,479",
+      "index": 108,
+      "start_time": 349.319,
+      "start_time_text": "00:05:49,319",
+      "text": "squalid refuge for these wigwams and"
+    },
+    {
+      "end_time": 357.16,
+      "end_time_text": "00:05:57,160",
+      "index": 109,
+      "start_time": 353.28,
+      "start_time_text": "00:05:53,280",
+      "text": "teeps we have to get rid of them and"
+    },
+    {
+      "end_time": 361.639,
+      "end_time_text": "00:06:01,639",
+      "index": 110,
+      "start_time": 355.479,
+      "start_time_text": "00:05:55,479",
+      "text": "make this a great"
+    },
+    {
+      "end_time": 361.639,
+      "end_time_text": "00:06:01,639",
+      "index": 111,
+      "start_time": 357.16,
+      "start_time_text": "00:05:57,160",
+      "text": "country but he didn't deny"
+    },
+    {
+      "end_time": 366.96,
+      "end_time_text": "00:06:06,960",
+      "index": 112,
+      "start_time": 361.84,
+      "start_time_text": "00:06:01,840",
+      "text": "that it was inbuilt and inevitable I"
+    },
+    {
+      "end_time": 369.52,
+      "end_time_text": "00:06:09,520",
+      "index": 113,
+      "start_time": 364.56,
+      "start_time_text": "00:06:04,560",
+      "text": "think you've made your point first I'll"
+    },
+    {
+      "end_time": 371.52,
+      "end_time_text": "00:06:11,520",
+      "index": 114,
+      "start_time": 366.96,
+      "start_time_text": "00:06:06,960",
+      "text": "take up something that mu said he said"
+    },
+    {
+      "end_time": 374.039,
+      "end_time_text": "00:06:14,039",
+      "index": 115,
+      "start_time": 369.52,
+      "start_time_text": "00:06:09,520",
+      "text": "that the nakba was"
+    },
+    {
+      "end_time": 376.56,
+      "end_time_text": "00:06:16,560",
+      "index": 116,
+      "start_time": 371.52,
+      "start_time_text": "00:06:11,520",
+      "text": "inevitable as have you and predictable"
+    },
+    {
+      "end_time": 379.4,
+      "end_time_text": "00:06:19,400",
+      "index": 117,
+      "start_time": 374.039,
+      "start_time_text": "00:06:14,039",
+      "text": "no no no I I've never said that it was"
+    },
+    {
+      "end_time": 382.16,
+      "end_time_text": "00:06:22,160",
+      "index": 118,
+      "start_time": 376.56,
+      "start_time_text": "00:06:16,560",
+      "text": "inevitable and predictable only because"
+    },
+    {
+      "end_time": 385.88,
+      "end_time_text": "00:06:25,880",
+      "index": 119,
+      "start_time": 379.4,
+      "start_time_text": "00:06:19,400",
+      "text": "the Arabs assaulted the Jewish community"
+    },
+    {
+      "end_time": 387.599,
+      "end_time_text": "00:06:27,599",
+      "index": 120,
+      "start_time": 382.16,
+      "start_time_text": "00:06:22,160",
+      "text": "and state in 1947 48 had there been no"
+    },
+    {
+      "end_time": 389.68,
+      "end_time_text": "00:06:29,680",
+      "index": 121,
+      "start_time": 385.88,
+      "start_time_text": "00:06:25,880",
+      "text": "assault there probably wouldn't have"
+    },
+    {
+      "end_time": 392.08,
+      "end_time_text": "00:06:32,080",
+      "index": 122,
+      "start_time": 387.599,
+      "start_time_text": "00:06:27,599",
+      "text": "been a refugee problem there's no reason"
+    },
+    {
+      "end_time": 393.96,
+      "end_time_text": "00:06:33,960",
+      "index": 123,
+      "start_time": 389.68,
+      "start_time_text": "00:06:29,680",
+      "text": "for a refugee problem to have occurred"
+    },
+    {
+      "end_time": 396.24,
+      "end_time_text": "00:06:36,240",
+      "index": 124,
+      "start_time": 392.08,
+      "start_time_text": "00:06:32,080",
+      "text": "expulsions to have occurred a"
+    },
+    {
+      "end_time": 399.12,
+      "end_time_text": "00:06:39,120",
+      "index": 125,
+      "start_time": 393.96,
+      "start_time_text": "00:06:33,960",
+      "text": "dispossession massive dispossession to"
+    },
+    {
+      "end_time": 402.599,
+      "end_time_text": "00:06:42,599",
+      "index": 126,
+      "start_time": 396.24,
+      "start_time_text": "00:06:36,240",
+      "text": "occur these occurred as a result of War"
+    },
+    {
+      "end_time": 406.12,
+      "end_time_text": "00:06:46,120",
+      "index": 127,
+      "start_time": 399.12,
+      "start_time_text": "00:06:39,120",
+      "text": "now Norman said that I said that"
+    },
+    {
+      "end_time": 407.96,
+      "end_time_text": "00:06:47,960",
+      "index": 128,
+      "start_time": 402.599,
+      "start_time_text": "00:06:42,599",
+      "text": "transfer was inbuilt into Zionism in one"
+    },
+    {
+      "end_time": 411.199,
+      "end_time_text": "00:06:51,199",
+      "index": 129,
+      "start_time": 406.12,
+      "start_time_text": "00:06:46,120",
+      "text": "way or another and this is certainly"
+    },
+    {
+      "end_time": 414.599,
+      "end_time_text": "00:06:54,599",
+      "index": 130,
+      "start_time": 407.96,
+      "start_time_text": "00:06:47,960",
+      "text": "true in order to buy land they had the"
+    },
+    {
+      "end_time": 416.52,
+      "end_time_text": "00:06:56,520",
+      "index": 131,
+      "start_time": 411.199,
+      "start_time_text": "00:06:51,199",
+      "text": "Jews bought tracts of land on which some"
+    },
+    {
+      "end_time": 418.08,
+      "end_time_text": "00:06:58,080",
+      "index": 132,
+      "start_time": 414.599,
+      "start_time_text": "00:06:54,599",
+      "text": "Arabs sometimes lived sometimes they"
+    },
+    {
+      "end_time": 420.08,
+      "end_time_text": "00:07:00,080",
+      "index": 133,
+      "start_time": 416.52,
+      "start_time_text": "00:06:56,520",
+      "text": "bought tracks of land on which they"
+    },
+    {
+      "end_time": 422.4,
+      "end_time_text": "00:07:02,400",
+      "index": 134,
+      "start_time": 418.08,
+      "start_time_text": "00:06:58,080",
+      "text": "weren't Arab Villages but sometimes they"
+    },
+    {
+      "end_time": 424.639,
+      "end_time_text": "00:07:04,639",
+      "index": 135,
+      "start_time": 420.08,
+      "start_time_text": "00:07:00,080",
+      "text": "bought land on which they were Arabs and"
+    },
+    {
+      "end_time": 427.759,
+      "end_time_text": "00:07:07,759",
+      "index": 136,
+      "start_time": 422.4,
+      "start_time_text": "00:07:02,400",
+      "text": "according to ottoman law and the British"
+    },
+    {
+      "end_time": 430.96,
+      "end_time_text": "00:07:10,960",
+      "index": 137,
+      "start_time": 424.639,
+      "start_time_text": "00:07:04,639",
+      "text": "at least in the initial years of the the"
+    },
+    {
+      "end_time": 432.879,
+      "end_time_text": "00:07:12,879",
+      "index": 138,
+      "start_time": 427.759,
+      "start_time_text": "00:07:07,759",
+      "text": "British mandate the law said that the PE"
+    },
+    {
+      "end_time": 434.319,
+      "end_time_text": "00:07:14,319",
+      "index": 139,
+      "start_time": 430.96,
+      "start_time_text": "00:07:10,960",
+      "text": "people who bought the land could do what"
+    },
+    {
+      "end_time": 435.96,
+      "end_time_text": "00:07:15,960",
+      "index": 140,
+      "start_time": 432.879,
+      "start_time_text": "00:07:12,879",
+      "text": "they liked with the people who didn't"
+    },
+    {
+      "end_time": 438.0,
+      "end_time_text": "00:07:18,000",
+      "index": 141,
+      "start_time": 434.319,
+      "start_time_text": "00:07:14,319",
+      "text": "own the land who were basically"
+    },
+    {
+      "end_time": 439.68,
+      "end_time_text": "00:07:19,680",
+      "index": 142,
+      "start_time": 435.96,
+      "start_time_text": "00:07:15,960",
+      "text": "squatting on the land which is the Arab"
+    },
+    {
+      "end_time": 441.44,
+      "end_time_text": "00:07:21,440",
+      "index": 143,
+      "start_time": 438.0,
+      "start_time_text": "00:07:18,000",
+      "text": "tenant Farmers which is we're talking"
+    },
+    {
+      "end_time": 443.8,
+      "end_time_text": "00:07:23,800",
+      "index": 144,
+      "start_time": 439.68,
+      "start_time_text": "00:07:19,680",
+      "text": "about a very small number actually of"
+    },
+    {
+      "end_time": 446.759,
+      "end_time_text": "00:07:26,759",
+      "index": 145,
+      "start_time": 441.44,
+      "start_time_text": "00:07:21,440",
+      "text": "Arabs who were displaced as a result of"
+    },
+    {
+      "end_time": 448.84,
+      "end_time_text": "00:07:28,840",
+      "index": 146,
+      "start_time": 443.8,
+      "start_time_text": "00:07:23,800",
+      "text": "land purchases in the otoman period or"
+    },
+    {
+      "end_time": 450.68,
+      "end_time_text": "00:07:30,680",
+      "index": 147,
+      "start_time": 446.759,
+      "start_time_text": "00:07:26,759",
+      "text": "the Mandate period but there was"
+    },
+    {
+      "end_time": 452.68,
+      "end_time_text": "00:07:32,680",
+      "index": 148,
+      "start_time": 448.84,
+      "start_time_text": "00:07:28,840",
+      "text": "dispossession in one way they didn't"
+    },
+    {
+      "end_time": 454.599,
+      "end_time_text": "00:07:34,599",
+      "index": 149,
+      "start_time": 450.68,
+      "start_time_text": "00:07:30,680",
+      "text": "possess the land they didn't own it but"
+    },
+    {
+      "end_time": 457.919,
+      "end_time_text": "00:07:37,919",
+      "index": 150,
+      "start_time": 452.68,
+      "start_time_text": "00:07:32,680",
+      "text": "they were removed from the land and this"
+    },
+    {
+      "end_time": 461.479,
+      "end_time_text": "00:07:41,479",
+      "index": 151,
+      "start_time": 454.599,
+      "start_time_text": "00:07:34,599",
+      "text": "did happen in Zionism and there's a a if"
+    },
+    {
+      "end_time": 464.44,
+      "end_time_text": "00:07:44,440",
+      "index": 152,
+      "start_time": 457.919,
+      "start_time_text": "00:07:37,919",
+      "text": "you like an inevitability in Zionist"
+    },
+    {
+      "end_time": 466.319,
+      "end_time_text": "00:07:46,319",
+      "index": 153,
+      "start_time": 461.479,
+      "start_time_text": "00:07:41,479",
+      "text": "ideology of buying tracts of land and"
+    },
+    {
+      "end_time": 468.44,
+      "end_time_text": "00:07:48,440",
+      "index": 154,
+      "start_time": 464.44,
+      "start_time_text": "00:07:44,440",
+      "text": "starting to work at yourself and settle"
+    },
+    {
+      "end_time": 470.599,
+      "end_time_text": "00:07:50,599",
+      "index": 155,
+      "start_time": 466.319,
+      "start_time_text": "00:07:46,319",
+      "text": "it with your own people and so on that"
+    },
+    {
+      "end_time": 474.4,
+      "end_time_text": "00:07:54,400",
+      "index": 156,
+      "start_time": 468.44,
+      "start_time_text": "00:07:48,440",
+      "text": "made sense but what we're really talking"
+    },
+    {
+      "end_time": 477.52,
+      "end_time_text": "00:07:57,520",
+      "index": 157,
+      "start_time": 470.599,
+      "start_time_text": "00:07:50,599",
+      "text": "about is what happened in 4748 and in"
+    },
+    {
+      "end_time": 479.96,
+      "end_time_text": "00:07:59,960",
+      "index": 158,
+      "start_time": 474.4,
+      "start_time_text": "00:07:54,400",
+      "text": "4748 the Arabs started a war and"
+    },
+    {
+      "end_time": 481.96,
+      "end_time_text": "00:08:01,960",
+      "index": 159,
+      "start_time": 477.52,
+      "start_time_text": "00:07:57,520",
+      "text": "actually people pay for their mist akes"
+    },
+    {
+      "end_time": 483.96,
+      "end_time_text": "00:08:03,960",
+      "index": 160,
+      "start_time": 479.96,
+      "start_time_text": "00:07:59,960",
+      "text": "and the Palestinians have never actually"
+    },
+    {
+      "end_time": 486.56,
+      "end_time_text": "00:08:06,560",
+      "index": 161,
+      "start_time": 481.96,
+      "start_time_text": "00:08:01,960",
+      "text": "agreed to pay for their mistakes they"
+    },
+    {
+      "end_time": 488.56,
+      "end_time_text": "00:08:08,560",
+      "index": 162,
+      "start_time": 483.96,
+      "start_time_text": "00:08:03,960",
+      "text": "make mistakes they attack they suffer as"
+    },
+    {
+      "end_time": 491.12,
+      "end_time_text": "00:08:11,120",
+      "index": 163,
+      "start_time": 486.56,
+      "start_time_text": "00:08:06,560",
+      "text": "a result and we see something similar"
+    },
+    {
+      "end_time": 492.96,
+      "end_time_text": "00:08:12,960",
+      "index": 164,
+      "start_time": 488.56,
+      "start_time_text": "00:08:08,560",
+      "text": "going on today in GA in the Gaza Strip"
+    },
+    {
+      "end_time": 496.12,
+      "end_time_text": "00:08:16,120",
+      "index": 165,
+      "start_time": 491.12,
+      "start_time_text": "00:08:11,120",
+      "text": "they do something terrible they kill"
+    },
+    {
+      "end_time": 498.84,
+      "end_time_text": "00:08:18,840",
+      "index": 166,
+      "start_time": 492.96,
+      "start_time_text": "00:08:12,960",
+      "text": "1,00 Jews they abduct 250 women and"
+    },
+    {
+      "end_time": 500.639,
+      "end_time_text": "00:08:20,639",
+      "index": 167,
+      "start_time": 496.12,
+      "start_time_text": "00:08:16,120",
+      "text": "children and babies and um old people"
+    },
+    {
+      "end_time": 502.84,
+      "end_time_text": "00:08:22,840",
+      "index": 168,
+      "start_time": 498.84,
+      "start_time_text": "00:08:18,840",
+      "text": "and whatever and then they start"
+    },
+    {
+      "end_time": 504.879,
+      "end_time_text": "00:08:24,879",
+      "index": 169,
+      "start_time": 500.639,
+      "start_time_text": "00:08:20,639",
+      "text": "screaming please save us from what we"
+    },
+    {
+      "end_time": 506.4,
+      "end_time_text": "00:08:26,400",
+      "index": 170,
+      "start_time": 502.84,
+      "start_time_text": "00:08:22,840",
+      "text": "did because the Jews are"
+    },
+    {
+      "end_time": 507.8,
+      "end_time_text": "00:08:27,800",
+      "index": 171,
+      "start_time": 504.879,
+      "start_time_text": "00:08:24,879",
+      "text": "counterattacking and this is what"
+    },
+    {
+      "end_time": 510.0,
+      "end_time_text": "00:08:30,000",
+      "index": 172,
+      "start_time": 506.4,
+      "start_time_text": "00:08:26,400",
+      "text": "happened then and this is what's"
+    },
+    {
+      "end_time": 512.599,
+      "end_time_text": "00:08:32,599",
+      "index": 173,
+      "start_time": 507.8,
+      "start_time_text": "00:08:27,800",
+      "text": "happening now it there's something"
+    },
+    {
+      "end_time": 515.0,
+      "end_time_text": "00:08:35,000",
+      "index": 174,
+      "start_time": 510.0,
+      "start_time_text": "00:08:30,000",
+      "text": "fairly similar in the situation here"
+    },
+    {
+      "end_time": 516.44,
+      "end_time_text": "00:08:36,440",
+      "index": 175,
+      "start_time": 512.599,
+      "start_time_text": "00:08:32,599",
+      "text": "expulsion and this is important Norman"
+    },
+    {
+      "end_time": 519.159,
+      "end_time_text": "00:08:39,159",
+      "index": 176,
+      "start_time": 515.0,
+      "start_time_text": "00:08:35,000",
+      "text": "you should pay attention to this you"
+    },
+    {
+      "end_time": 521.56,
+      "end_time_text": "00:08:41,560",
+      "index": 177,
+      "start_time": 516.44,
+      "start_time_text": "00:08:36,440",
+      "text": "didn't raise that expulsion transfer"
+    },
+    {
+      "end_time": 525.48,
+      "end_time_text": "00:08:45,480",
+      "index": 178,
+      "start_time": 519.159,
+      "start_time_text": "00:08:39,159",
+      "text": "when never policy of the Zionist"
+    },
+    {
+      "end_time": 527.68,
+      "end_time_text": "00:08:47,680",
+      "index": 179,
+      "start_time": 521.56,
+      "start_time_text": "00:08:41,560",
+      "text": "movement before 47 it doesn't exist in a"
+    },
+    {
+      "end_time": 530.08,
+      "end_time_text": "00:08:50,080",
+      "index": 180,
+      "start_time": 525.48,
+      "start_time_text": "00:08:45,480",
+      "text": "Zionist platforms of the various"
+    },
+    {
+      "end_time": 532.56,
+      "end_time_text": "00:08:52,560",
+      "index": 181,
+      "start_time": 527.68,
+      "start_time_text": "00:08:47,680",
+      "text": "political parties of the Zionist"
+    },
+    {
+      "end_time": 535.12,
+      "end_time_text": "00:08:55,120",
+      "index": 182,
+      "start_time": 530.08,
+      "start_time_text": "00:08:50,080",
+      "text": "organization of the Israeli state of the"
+    },
+    {
+      "end_time": 537.08,
+      "end_time_text": "00:08:57,080",
+      "index": 183,
+      "start_time": 532.56,
+      "start_time_text": "00:08:52,560",
+      "text": "Jewish agency nobody would have actually"
+    },
+    {
+      "end_time": 538.76,
+      "end_time_text": "00:08:58,760",
+      "index": 184,
+      "start_time": 535.12,
+      "start_time_text": "00:08:55,120",
+      "text": "made it into policy because it was"
+    },
+    {
+      "end_time": 540.72,
+      "end_time_text": "00:09:00,720",
+      "index": 185,
+      "start_time": 537.08,
+      "start_time_text": "00:08:57,080",
+      "text": "always a large minority if there were"
+    },
+    {
+      "end_time": 542.8,
+      "end_time_text": "00:09:02,800",
+      "index": 186,
+      "start_time": 538.76,
+      "start_time_text": "00:08:58,760",
+      "text": "people who wanted it always a large"
+    },
+    {
+      "end_time": 544.48,
+      "end_time_text": "00:09:04,480",
+      "index": 187,
+      "start_time": 540.72,
+      "start_time_text": "00:09:00,720",
+      "text": "minority of Jewish politicians and"
+    },
+    {
+      "end_time": 547.6,
+      "end_time_text": "00:09:07,600",
+      "index": 188,
+      "start_time": 542.8,
+      "start_time_text": "00:09:02,800",
+      "text": "leaders would have said no this is"
+    },
+    {
+      "end_time": 549.8,
+      "end_time_text": "00:09:09,800",
+      "index": 189,
+      "start_time": 544.48,
+      "start_time_text": "00:09:04,480",
+      "text": "immoral we cannot start a state on the"
+    },
+    {
+      "end_time": 551.64,
+      "end_time_text": "00:09:11,640",
+      "index": 190,
+      "start_time": 547.6,
+      "start_time_text": "00:09:07,600",
+      "text": "basis of an expulsion so it was never"
+    },
+    {
+      "end_time": 554.76,
+      "end_time_text": "00:09:14,760",
+      "index": 191,
+      "start_time": 549.8,
+      "start_time_text": "00:09:09,800",
+      "text": "adopted and actually was never adopted"
+    },
+    {
+      "end_time": 556.8,
+      "end_time_text": "00:09:16,800",
+      "index": 192,
+      "start_time": 551.64,
+      "start_time_text": "00:09:11,640",
+      "text": "as policy even in 48 even though Boran"
+    },
+    {
+      "end_time": 559.16,
+      "end_time_text": "00:09:19,160",
+      "index": 193,
+      "start_time": 554.76,
+      "start_time_text": "00:09:14,760",
+      "text": "wanted as few Arabs in the course of the"
+    },
+    {
+      "end_time": 560.92,
+      "end_time_text": "00:09:20,920",
+      "index": 194,
+      "start_time": 556.8,
+      "start_time_text": "00:09:16,800",
+      "text": "war staying in the Jewish state after"
+    },
+    {
+      "end_time": 563.16,
+      "end_time_text": "00:09:23,160",
+      "index": 195,
+      "start_time": 559.16,
+      "start_time_text": "00:09:19,160",
+      "text": "they attacked it he didn't want this"
+    },
+    {
+      "end_time": 565.76,
+      "end_time_text": "00:09:25,760",
+      "index": 196,
+      "start_time": 560.92,
+      "start_time_text": "00:09:20,920",
+      "text": "loyal citizen staying there because they"
+    },
+    {
+      "end_time": 568.48,
+      "end_time_text": "00:09:28,480",
+      "index": 197,
+      "start_time": 563.16,
+      "start_time_text": "00:09:23,160",
+      "text": "wouldn't have been loyal citizens but"
+    },
+    {
+      "end_time": 570.12,
+      "end_time_text": "00:09:30,120",
+      "index": 198,
+      "start_time": 565.76,
+      "start_time_text": "00:09:25,760",
+      "text": "this made sense in the war itself but"
+    },
+    {
+      "end_time": 572.92,
+      "end_time_text": "00:09:32,920",
+      "index": 199,
+      "start_time": 568.48,
+      "start_time_text": "00:09:28,480",
+      "text": "the movement itself self and its"
+    },
+    {
+      "end_time": 576.0,
+      "end_time_text": "00:09:36,000",
+      "index": 200,
+      "start_time": 570.12,
+      "start_time_text": "00:09:30,120",
+      "text": "political parties never accepted it it's"
+    },
+    {
+      "end_time": 578.6,
+      "end_time_text": "00:09:38,600",
+      "index": 201,
+      "start_time": 572.92,
+      "start_time_text": "00:09:32,920",
+      "text": "true that in 1937 when the British as"
+    },
+    {
+      "end_time": 582.0,
+      "end_time_text": "00:09:42,000",
+      "index": 202,
+      "start_time": 576.0,
+      "start_time_text": "00:09:36,000",
+      "text": "part of the proposal by the peel"
+    },
+    {
+      "end_time": 584.2,
+      "end_time_text": "00:09:44,200",
+      "index": 203,
+      "start_time": 578.6,
+      "start_time_text": "00:09:38,600",
+      "text": "commission um to divide the country into"
+    },
+    {
+      "end_time": 587.0,
+      "end_time_text": "00:09:47,000",
+      "index": 204,
+      "start_time": 582.0,
+      "start_time_text": "00:09:42,000",
+      "text": "two states one Arab one Jewish which the"
+    },
+    {
+      "end_time": 589.48,
+      "end_time_text": "00:09:49,480",
+      "index": 205,
+      "start_time": 584.2,
+      "start_time_text": "00:09:44,200",
+      "text": "Arabs of course rejected a appeal also"
+    },
+    {
+      "end_time": 592.24,
+      "end_time_text": "00:09:52,240",
+      "index": 206,
+      "start_time": 587.0,
+      "start_time_text": "00:09:47,000",
+      "text": "recommended that the Arabs most of the"
+    },
+    {
+      "end_time": 594.64,
+      "end_time_text": "00:09:54,640",
+      "index": 207,
+      "start_time": 589.48,
+      "start_time_text": "00:09:49,480",
+      "text": "Arabs in the Jewish state to be should"
+    },
+    {
+      "end_time": 596.88,
+      "end_time_text": "00:09:56,880",
+      "index": 208,
+      "start_time": 592.24,
+      "start_time_text": "00:09:52,240",
+      "text": "be transferred because otherwise if they"
+    },
+    {
+      "end_time": 599.72,
+      "end_time_text": "00:09:59,720",
+      "index": 209,
+      "start_time": 594.64,
+      "start_time_text": "00:09:54,640",
+      "text": "stayed and were disloyal to the emerging"
+    },
+    {
+      "end_time": 603.399,
+      "end_time_text": "00:10:03,399",
+      "index": 210,
+      "start_time": 596.88,
+      "start_time_text": "00:09:56,880",
+      "text": "Jewish State this would cause endless"
+    },
+    {
+      "end_time": 606.6,
+      "end_time_text": "00:10:06,600",
+      "index": 211,
+      "start_time": 599.72,
+      "start_time_text": "00:09:59,720",
+      "text": "disturbances Warfare killing and so on a"
+    },
+    {
+      "end_time": 609.6,
+      "end_time_text": "00:10:09,600",
+      "index": 212,
+      "start_time": 603.399,
+      "start_time_text": "00:10:03,399",
+      "text": "so Boran and whitesman latched onto this"
+    },
+    {
+      "end_time": 611.519,
+      "end_time_text": "00:10:11,519",
+      "index": 213,
+      "start_time": 606.6,
+      "start_time_text": "00:10:06,600",
+      "text": "proposal by the F most famous America"
+    },
+    {
+      "end_time": 614.36,
+      "end_time_text": "00:10:14,360",
+      "index": 214,
+      "start_time": 609.6,
+      "start_time_text": "00:10:09,600",
+      "text": "democracy in the world the British"
+    },
+    {
+      "end_time": 616.68,
+      "end_time_text": "00:10:16,680",
+      "index": 215,
+      "start_time": 611.519,
+      "start_time_text": "00:10:11,519",
+      "text": "democracy when they proposed the idea of"
+    },
+    {
+      "end_time": 619.6,
+      "end_time_text": "00:10:19,600",
+      "index": 216,
+      "start_time": 614.36,
+      "start_time_text": "00:10:14,360",
+      "text": "transfer side by side with the idea of"
+    },
+    {
+      "end_time": 621.6,
+      "end_time_text": "00:10:21,600",
+      "index": 217,
+      "start_time": 616.68,
+      "start_time_text": "00:10:16,680",
+      "text": "partition because it made sense um and"
+    },
+    {
+      "end_time": 623.72,
+      "end_time_text": "00:10:23,720",
+      "index": 218,
+      "start_time": 619.6,
+      "start_time_text": "00:10:19,600",
+      "text": "they said well if the British say so we"
+    },
+    {
+      "end_time": 626.399,
+      "end_time_text": "00:10:26,399",
+      "index": 219,
+      "start_time": 621.6,
+      "start_time_text": "00:10:21,600",
+      "text": "should also Advocate it but they never"
+    },
+    {
+      "end_time": 628.72,
+      "end_time_text": "00:10:28,720",
+      "index": 220,
+      "start_time": 623.72,
+      "start_time_text": "00:10:23,720",
+      "text": "actually tried to pass it as Zionist"
+    },
+    {
+      "end_time": 631.6,
+      "end_time_text": "00:10:31,600",
+      "index": 221,
+      "start_time": 626.399,
+      "start_time_text": "00:10:26,399",
+      "text": "policy and they fairly quickly stopped"
+    },
+    {
+      "end_time": 635.279,
+      "end_time_text": "00:10:35,279",
+      "index": 222,
+      "start_time": 628.72,
+      "start_time_text": "00:10:28,720",
+      "text": "even talking about transfer after 1938"
+    },
+    {
+      "end_time": 639.8,
+      "end_time_text": "00:10:39,800",
+      "index": 223,
+      "start_time": 631.6,
+      "start_time_text": "00:10:31,600",
+      "text": "so just to clarify what you're saying is"
+    },
+    {
+      "end_time": 641.88,
+      "end_time_text": "00:10:41,880",
+      "index": 224,
+      "start_time": 635.279,
+      "start_time_text": "00:10:35,279",
+      "text": "that uh 47 was an offensive War not a"
+    },
+    {
+      "end_time": 644.2,
+      "end_time_text": "00:10:44,200",
+      "index": 225,
+      "start_time": 639.8,
+      "start_time_text": "00:10:39,800",
+      "text": "defensive War by the Arabs yes by the"
+    },
+    {
+      "end_time": 645.959,
+      "end_time_text": "00:10:45,959",
+      "index": 226,
+      "start_time": 641.88,
+      "start_time_text": "00:10:41,880",
+      "text": "Arabs yeah and you're also saying that"
+    },
+    {
+      "end_time": 649.44,
+      "end_time_text": "00:10:49,440",
+      "index": 227,
+      "start_time": 644.2,
+      "start_time_text": "00:10:44,200",
+      "text": "there was never a"
+    },
+    {
+      "end_time": 652.72,
+      "end_time_text": "00:10:52,720",
+      "index": 228,
+      "start_time": 645.959,
+      "start_time_text": "00:10:45,959",
+      "text": "topdown policy of expulsion yes just to"
+    },
+    {
+      "end_time": 656.639,
+      "end_time_text": "00:10:56,639",
+      "index": 229,
+      "start_time": 649.44,
+      "start_time_text": "00:10:49,440",
+      "text": "clarify the point if I understood you"
+    },
+    {
+      "end_time": 659.8,
+      "end_time_text": "00:10:59,800",
+      "index": 230,
+      "start_time": 652.72,
+      "start_time_text": "00:10:52,720",
+      "text": "correctly um you're making you're making"
+    },
+    {
+      "end_time": 661.8,
+      "end_time_text": "00:11:01,800",
+      "index": 231,
+      "start_time": 656.639,
+      "start_time_text": "00:10:56,639",
+      "text": "the claim that transfer expulsion and so"
+    },
+    {
+      "end_time": 665.519,
+      "end_time_text": "00:11:05,519",
+      "index": 232,
+      "start_time": 659.8,
+      "start_time_text": "00:10:59,800",
+      "text": "on was was in fact a very"
+    },
+    {
+      "end_time": 667.68,
+      "end_time_text": "00:11:07,680",
+      "index": 233,
+      "start_time": 661.8,
+      "start_time_text": "00:11:01,800",
+      "text": "localized phenomenon result resulting"
+    },
+    {
+      "end_time": 671.24,
+      "end_time_text": "00:11:11,240",
+      "index": 234,
+      "start_time": 665.519,
+      "start_time_text": "00:11:05,519",
+      "text": "from Individual land"
+    },
+    {
+      "end_time": 672.92,
+      "end_time_text": "00:11:12,920",
+      "index": 235,
+      "start_time": 667.68,
+      "start_time_text": "00:11:07,680",
+      "text": "purchases um and that if I understand"
+    },
+    {
+      "end_time": 678.279,
+      "end_time_text": "00:11:18,279",
+      "index": 236,
+      "start_time": 671.24,
+      "start_time_text": "00:11:11,240",
+      "text": "you correctly you're also making the"
+    },
+    {
+      "end_time": 683.48,
+      "end_time_text": "00:11:23,480",
+      "index": 237,
+      "start_time": 672.92,
+      "start_time_text": "00:11:12,920",
+      "text": "claim um that the idea that a Jewish"
+    },
+    {
+      "end_time": 687.24,
+      "end_time_text": "00:11:27,240",
+      "index": 238,
+      "start_time": 678.279,
+      "start_time_text": "00:11:18,279",
+      "text": "State requires a um removal or"
+    },
+    {
+      "end_time": 690.2,
+      "end_time_text": "00:11:30,200",
+      "index": 239,
+      "start_time": 683.48,
+      "start_time_text": "00:11:23,480",
+      "text": "overwhelming reduction of the non-jewish"
+    },
+    {
+      "end_time": 693.2,
+      "end_time_text": "00:11:33,200",
+      "index": 240,
+      "start_time": 687.24,
+      "start_time_text": "00:11:27,240",
+      "text": "population was if Arabs are attacking"
+    },
+    {
+      "end_time": 698.04,
+      "end_time_text": "00:11:38,040",
+      "index": 241,
+      "start_time": 690.2,
+      "start_time_text": "00:11:30,200",
+      "text": "you yes but but that let's say prior to"
+    },
+    {
+      "end_time": 702.32,
+      "end_time_text": "00:11:42,320",
+      "index": 242,
+      "start_time": 693.2,
+      "start_time_text": "00:11:33,200",
+      "text": "1947 it would be your claim um that the"
+    },
+    {
+      "end_time": 704.519,
+      "end_time_text": "00:11:44,519",
+      "index": 243,
+      "start_time": 698.04,
+      "start_time_text": "00:11:38,040",
+      "text": "idea that a significant reduction or"
+    },
+    {
+      "end_time": 707.48,
+      "end_time_text": "00:11:47,480",
+      "index": 244,
+      "start_time": 702.32,
+      "start_time_text": "00:11:42,320",
+      "text": "wholesale removal of the Arab population"
+    },
+    {
+      "end_time": 710.399,
+      "end_time_text": "00:11:50,399",
+      "index": 245,
+      "start_time": 704.519,
+      "start_time_text": "00:11:44,519",
+      "text": "was not part of of Zionist thinking well"
+    },
+    {
+      "end_time": 713.079,
+      "end_time_text": "00:11:53,079",
+      "index": 246,
+      "start_time": 707.48,
+      "start_time_text": "00:11:47,480",
+      "text": "I I think there's two problems with that"
+    },
+    {
+      "end_time": 716.76,
+      "end_time_text": "00:11:56,760",
+      "index": 247,
+      "start_time": 710.399,
+      "start_time_text": "00:11:50,399",
+      "text": "um I think what you're saying about"
+    },
+    {
+      "end_time": 721.639,
+      "end_time_text": "00:12:01,639",
+      "index": 248,
+      "start_time": 713.079,
+      "start_time_text": "00:11:53,079",
+      "text": "localized uh disputes is correct but I"
+    },
+    {
+      "end_time": 725.8,
+      "end_time_text": "00:12:05,800",
+      "index": 249,
+      "start_time": 716.76,
+      "start_time_text": "00:11:56,760",
+      "text": "also think that um uh there is a whole"
+    },
+    {
+      "end_time": 729.2,
+      "end_time_text": "00:12:09,200",
+      "index": 250,
+      "start_time": 721.639,
+      "start_time_text": "00:12:01,639",
+      "text": "literature that demonstrates um that"
+    },
+    {
+      "end_time": 732.399,
+      "end_time_text": "00:12:12,399",
+      "index": 251,
+      "start_time": 725.8,
+      "start_time_text": "00:12:05,800",
+      "text": "transfer was envisioned by Zionist"
+    },
+    {
+      "end_time": 734.72,
+      "end_time_text": "00:12:14,720",
+      "index": 252,
+      "start_time": 729.2,
+      "start_time_text": "00:12:09,200",
+      "text": "leaders on a much broader scale than"
+    },
+    {
+      "end_time": 737.36,
+      "end_time_text": "00:12:17,360",
+      "index": 253,
+      "start_time": 732.399,
+      "start_time_text": "00:12:12,399",
+      "text": "simply individual land purchases in"
+    },
+    {
+      "end_time": 739.399,
+      "end_time_text": "00:12:19,399",
+      "index": 254,
+      "start_time": 734.72,
+      "start_time_text": "00:12:14,720",
+      "text": "other words it's it it went Way Beyond"
+    },
+    {
+      "end_time": 742.12,
+      "end_time_text": "00:12:22,120",
+      "index": 255,
+      "start_time": 737.36,
+      "start_time_text": "00:12:17,360",
+      "text": "we need to remove these tenants so that"
+    },
+    {
+      "end_time": 745.88,
+      "end_time_text": "00:12:25,880",
+      "index": 256,
+      "start_time": 739.399,
+      "start_time_text": "00:12:19,399",
+      "text": "we can form this land the idea was we"
+    },
+    {
+      "end_time": 747.6,
+      "end_time_text": "00:12:27,600",
+      "index": 257,
+      "start_time": 742.12,
+      "start_time_text": "00:12:22,120",
+      "text": "can't have a state where all these Arabs"
+    },
+    {
+      "end_time": 750.519,
+      "end_time_text": "00:12:30,519",
+      "index": 258,
+      "start_time": 745.88,
+      "start_time_text": "00:12:25,880",
+      "text": "remain and we have to get rid of them"
+    },
+    {
+      "end_time": 754.0,
+      "end_time_text": "00:12:34,000",
+      "index": 259,
+      "start_time": 747.6,
+      "start_time_text": "00:12:27,600",
+      "text": "and the second I think impediment to to"
+    },
+    {
+      "end_time": 756.76,
+      "end_time_text": "00:12:36,760",
+      "index": 260,
+      "start_time": 750.519,
+      "start_time_text": "00:12:30,519",
+      "text": "that view is that long before the UN"
+    },
+    {
+      "end_time": 760.12,
+      "end_time_text": "00:12:40,120",
+      "index": 261,
+      "start_time": 754.0,
+      "start_time_text": "00:12:34,000",
+      "text": "General Assembly convened um to address"
+    },
+    {
+      "end_time": 763.519,
+      "end_time_text": "00:12:43,519",
+      "index": 262,
+      "start_time": 756.76,
+      "start_time_text": "00:12:36,760",
+      "text": "a question of Palestine Palestinian and"
+    },
+    {
+      "end_time": 767.0,
+      "end_time_text": "00:12:47,000",
+      "index": 263,
+      "start_time": 760.12,
+      "start_time_text": "00:12:40,120",
+      "text": "Arab and other leaders as well had been"
+    },
+    {
+      "end_time": 768.959,
+      "end_time_text": "00:12:48,959",
+      "index": 264,
+      "start_time": 763.519,
+      "start_time_text": "00:12:43,519",
+      "text": "warning at infinum that the purpose of"
+    },
+    {
+      "end_time": 771.199,
+      "end_time_text": "00:12:51,199",
+      "index": 265,
+      "start_time": 767.0,
+      "start_time_text": "00:12:47,000",
+      "text": "the Zionist movement is not just to"
+    },
+    {
+      "end_time": 772.519,
+      "end_time_text": "00:12:52,519",
+      "index": 266,
+      "start_time": 768.959,
+      "start_time_text": "00:12:48,959",
+      "text": "establish a Jewish state but to"
+    },
+    {
+      "end_time": 776.199,
+      "end_time_text": "00:12:56,199",
+      "index": 267,
+      "start_time": 771.199,
+      "start_time_text": "00:12:51,199",
+      "text": "establish an"
+    },
+    {
+      "end_time": 779.76,
+      "end_time_text": "00:12:59,760",
+      "index": 268,
+      "start_time": 772.519,
+      "start_time_text": "00:12:52,519",
+      "text": "exclusivist uh Jewish State and that"
+    },
+    {
+      "end_time": 784.12,
+      "end_time_text": "00:13:04,120",
+      "index": 269,
+      "start_time": 776.199,
+      "start_time_text": "00:12:56,199",
+      "text": "transfer forc displacement of"
+    },
+    {
+      "end_time": 787.76,
+      "end_time_text": "00:13:07,760",
+      "index": 270,
+      "start_time": 779.76,
+      "start_time_text": "00:12:59,760",
+      "text": "uh was fundamental um uh to that uh"
+    },
+    {
+      "end_time": 792.399,
+      "end_time_text": "00:13:12,399",
+      "index": 271,
+      "start_time": 784.12,
+      "start_time_text": "00:13:04,120",
+      "text": "project and just responding to um uh"
+    },
+    {
+      "end_time": 797.279,
+      "end_time_text": "00:13:17,279",
+      "index": 272,
+      "start_time": 787.76,
+      "start_time_text": "00:13:07,760",
+      "text": "sorry was it bonell or with a B yeah"
+    },
+    {
+      "end_time": 799.8,
+      "end_time_text": "00:13:19,800",
+      "index": 273,
+      "start_time": 792.399,
+      "start_time_text": "00:13:12,399",
+      "text": "yeah um you made the point that um uh"
+    },
+    {
+      "end_time": 803.24,
+      "end_time_text": "00:13:23,240",
+      "index": 274,
+      "start_time": 797.279,
+      "start_time_text": "00:13:17,279",
+      "text": "the the problem here is that people"
+    },
+    {
+      "end_time": 806.24,
+      "end_time_text": "00:13:26,240",
+      "index": 275,
+      "start_time": 799.8,
+      "start_time_text": "00:13:19,800",
+      "text": "don't recognize is that the first and"
+    },
+    {
+      "end_time": 807.839,
+      "end_time_text": "00:13:27,839",
+      "index": 276,
+      "start_time": 803.24,
+      "start_time_text": "00:13:23,240",
+      "text": "last result for the Arabs is always War"
+    },
+    {
+      "end_time": 812.0,
+      "end_time_text": "00:13:32,000",
+      "index": 277,
+      "start_time": 806.24,
+      "start_time_text": "00:13:26,240",
+      "text": "I think there's a problem with that I"
+    },
+    {
+      "end_time": 816.0,
+      "end_time_text": "00:13:36,000",
+      "index": 278,
+      "start_time": 807.839,
+      "start_time_text": "00:13:27,839",
+      "text": "think um you might do well to recall um"
+    },
+    {
+      "end_time": 818.24,
+      "end_time_text": "00:13:38,240",
+      "index": 279,
+      "start_time": 812.0,
+      "start_time_text": "00:13:32,000",
+      "text": "the 1936 general strike conducted by"
+    },
+    {
+      "end_time": 821.16,
+      "end_time_text": "00:13:41,160",
+      "index": 280,
+      "start_time": 816.0,
+      "start_time_text": "00:13:36,000",
+      "text": "Palestinians um at the beginning of the"
+    },
+    {
+      "end_time": 825.199,
+      "end_time_text": "00:13:45,199",
+      "index": 281,
+      "start_time": 818.24,
+      "start_time_text": "00:13:38,240",
+      "text": "Revolt which at the time was the longest"
+    },
+    {
+      "end_time": 828.44,
+      "end_time_text": "00:13:48,440",
+      "index": 282,
+      "start_time": 821.16,
+      "start_time_text": "00:13:41,160",
+      "text": "recorded uh general strike in history um"
+    },
+    {
+      "end_time": 830.44,
+      "end_time_text": "00:13:50,440",
+      "index": 283,
+      "start_time": 825.199,
+      "start_time_text": "00:13:45,199",
+      "text": "you may want to consult um the book uh"
+    },
+    {
+      "end_time": 833.839,
+      "end_time_text": "00:13:53,839",
+      "index": 284,
+      "start_time": 828.44,
+      "start_time_text": "00:13:48,440",
+      "text": "published last year by Lori Allen a"
+    },
+    {
+      "end_time": 837.88,
+      "end_time_text": "00:13:57,880",
+      "index": 285,
+      "start_time": 830.44,
+      "start_time_text": "00:13:50,440",
+      "text": "history of false hope which discusses in"
+    },
+    {
+      "end_time": 839.92,
+      "end_time_text": "00:13:59,920",
+      "index": 286,
+      "start_time": 833.839,
+      "start_time_text": "00:13:53,839",
+      "text": "great detail the consistent engagement"
+    },
+    {
+      "end_time": 842.279,
+      "end_time_text": "00:14:02,279",
+      "index": 287,
+      "start_time": 837.88,
+      "start_time_text": "00:13:57,880",
+      "text": "by Palestinians their leaders their"
+    },
+    {
+      "end_time": 845.24,
+      "end_time_text": "00:14:05,240",
+      "index": 288,
+      "start_time": 839.92,
+      "start_time_text": "00:13:59,920",
+      "text": "Elites their diplomats and so on with"
+    },
+    {
+      "end_time": 848.44,
+      "end_time_text": "00:14:08,440",
+      "index": 289,
+      "start_time": 842.279,
+      "start_time_text": "00:14:02,279",
+      "text": "all these International committees if we"
+    },
+    {
+      "end_time": 850.48,
+      "end_time_text": "00:14:10,480",
+      "index": 290,
+      "start_time": 845.24,
+      "start_time_text": "00:14:05,240",
+      "text": "look at today the Palestinians are once"
+    },
+    {
+      "end_time": 854.199,
+      "end_time_text": "00:14:14,199",
+      "index": 291,
+      "start_time": 848.44,
+      "start_time_text": "00:14:08,440",
+      "text": "again going to the international court"
+    },
+    {
+      "end_time": 857.36,
+      "end_time_text": "00:14:17,360",
+      "index": 292,
+      "start_time": 850.48,
+      "start_time_text": "00:14:10,480",
+      "text": "of justice um they're"
+    },
+    {
+      "end_time": 859.32,
+      "end_time_text": "00:14:19,320",
+      "index": 293,
+      "start_time": 854.199,
+      "start_time_text": "00:14:14,199",
+      "text": "consistently trying to persuade uh the"
+    },
+    {
+      "end_time": 862.72,
+      "end_time_text": "00:14:22,720",
+      "index": 294,
+      "start_time": 857.36,
+      "start_time_text": "00:14:17,360",
+      "text": "chief prosecutor of the international"
+    },
+    {
+      "end_time": 865.32,
+      "end_time_text": "00:14:25,320",
+      "index": 295,
+      "start_time": 859.32,
+      "start_time_text": "00:14:19,320",
+      "text": "criminal court to um do his job um they"
+    },
+    {
+      "end_time": 868.36,
+      "end_time_text": "00:14:28,360",
+      "index": 296,
+      "start_time": 862.72,
+      "start_time_text": "00:14:22,720",
+      "text": "have launched widespread uh boycott"
+    },
+    {
+      "end_time": 871.519,
+      "end_time_text": "00:14:31,519",
+      "index": 297,
+      "start_time": 865.32,
+      "start_time_text": "00:14:25,320",
+      "text": "campaign so of course the Palestinians"
+    },
+    {
+      "end_time": 874.36,
+      "end_time_text": "00:14:34,360",
+      "index": 298,
+      "start_time": 868.36,
+      "start_time_text": "00:14:28,360",
+      "text": "have engaged in um uh military"
+    },
+    {
+      "end_time": 875.92,
+      "end_time_text": "00:14:35,920",
+      "index": 299,
+      "start_time": 871.519,
+      "start_time_text": "00:14:31,519",
+      "text": "resistance but I think the suggestion"
+    },
+    {
+      "end_time": 878.36,
+      "end_time_text": "00:14:38,360",
+      "index": 300,
+      "start_time": 874.36,
+      "start_time_text": "00:14:34,360",
+      "text": "that this has always been their first"
+    },
+    {
+      "end_time": 882.0,
+      "end_time_text": "00:14:42,000",
+      "index": 301,
+      "start_time": 875.92,
+      "start_time_text": "00:14:35,920",
+      "text": "and last resort and that they have"
+    },
+    {
+      "end_time": 885.32,
+      "end_time_text": "00:14:45,320",
+      "index": 302,
+      "start_time": 878.36,
+      "start_time_text": "00:14:38,360",
+      "text": "somehow spurned Civic action spurned"
+    },
+    {
+      "end_time": 887.48,
+      "end_time_text": "00:14:47,480",
+      "index": 303,
+      "start_time": 882.0,
+      "start_time_text": "00:14:42,000",
+      "text": "diplomacy I I think really has no basis"
+    },
+    {
+      "end_time": 888.959,
+      "end_time_text": "00:14:48,959",
+      "index": 304,
+      "start_time": 885.32,
+      "start_time_text": "00:14:45,320",
+      "text": "uh in reality I'll respond to that and"
+    },
+    {
+      "end_time": 890.079,
+      "end_time_text": "00:14:50,079",
+      "index": 305,
+      "start_time": 887.48,
+      "start_time_text": "00:14:47,480",
+      "text": "then a question for Norm to take into"
+    },
+    {
+      "end_time": 892.36,
+      "end_time_text": "00:14:52,360",
+      "index": 306,
+      "start_time": 888.959,
+      "start_time_text": "00:14:48,959",
+      "text": "account I think when he answers Benny"
+    },
+    {
+      "end_time": 894.279,
+      "end_time_text": "00:14:54,279",
+      "index": 307,
+      "start_time": 890.079,
+      "start_time_text": "00:14:50,079",
+      "text": "because I am curious obviously uh I have"
+    },
+    {
+      "end_time": 895.88,
+      "end_time_text": "00:14:55,880",
+      "index": 308,
+      "start_time": 892.36,
+      "start_time_text": "00:14:52,360",
+      "text": "fresher eyes on this and I'm a newcomer"
+    },
+    {
+      "end_time": 898.199,
+      "end_time_text": "00:14:58,199",
+      "index": 309,
+      "start_time": 894.279,
+      "start_time_text": "00:14:54,279",
+      "text": "to this Arena versus the three of you"
+    },
+    {
+      "end_time": 900.12,
+      "end_time_text": "00:15:00,120",
+      "index": 310,
+      "start_time": 895.88,
+      "start_time_text": "00:14:55,880",
+      "text": "guys for sure um a claim that gets"
+    },
+    {
+      "end_time": 902.8,
+      "end_time_text": "00:15:02,800",
+      "index": 311,
+      "start_time": 898.199,
+      "start_time_text": "00:14:58,199",
+      "text": "brought up a lot has to do with the"
+    },
+    {
+      "end_time": 905.0,
+      "end_time_text": "00:15:05,000",
+      "index": 312,
+      "start_time": 900.12,
+      "start_time_text": "00:15:00,120",
+      "text": "inevitability of transfer in Zionism or"
+    },
+    {
+      "end_time": 906.759,
+      "end_time_text": "00:15:06,759",
+      "index": 313,
+      "start_time": 902.8,
+      "start_time_text": "00:15:02,800",
+      "text": "the idea that as soon as the Jews"
+    },
+    {
+      "end_time": 909.04,
+      "end_time_text": "00:15:09,040",
+      "index": 314,
+      "start_time": 905.0,
+      "start_time_text": "00:15:05,000",
+      "text": "envisioned a state in Palestine they"
+    },
+    {
+      "end_time": 911.12,
+      "end_time_text": "00:15:11,120",
+      "index": 315,
+      "start_time": 906.759,
+      "start_time_text": "00:15:06,759",
+      "text": "knew that it would involve some Mass"
+    },
+    {
+      "end_time": 912.92,
+      "end_time_text": "00:15:12,920",
+      "index": 316,
+      "start_time": 909.04,
+      "start_time_text": "00:15:09,040",
+      "text": "transfer of population perhaps a mass"
+    },
+    {
+      "end_time": 915.8,
+      "end_time_text": "00:15:15,800",
+      "index": 317,
+      "start_time": 911.12,
+      "start_time_text": "00:15:11,120",
+      "text": "expulsion um I'm sure we'll talk about"
+    },
+    {
+      "end_time": 918.32,
+      "end_time_text": "00:15:18,320",
+      "index": 318,
+      "start_time": 912.92,
+      "start_time_text": "00:15:12,920",
+      "text": "Plan D or Plan D at some point the issue"
+    },
+    {
+      "end_time": 919.88,
+      "end_time_text": "00:15:19,880",
+      "index": 319,
+      "start_time": 915.8,
+      "start_time_text": "00:15:15,800",
+      "text": "that I run into is while you can find"
+    },
+    {
+      "end_time": 922.36,
+      "end_time_text": "00:15:22,360",
+      "index": 320,
+      "start_time": 918.32,
+      "start_time_text": "00:15:18,320",
+      "text": "quotes from leaders while you can find"
+    },
+    {
+      "end_time": 924.56,
+      "end_time_text": "00:15:24,560",
+      "index": 321,
+      "start_time": 919.88,
+      "start_time_text": "00:15:19,880",
+      "text": "maybe desires expressed in Diaries I"
+    },
+    {
+      "end_time": 927.04,
+      "end_time_text": "00:15:27,040",
+      "index": 322,
+      "start_time": 922.36,
+      "start_time_text": "00:15:22,360",
+      "text": "feel like it's hard to truly ever know"
+    },
+    {
+      "end_time": 928.8,
+      "end_time_text": "00:15:28,800",
+      "index": 323,
+      "start_time": 924.56,
+      "start_time_text": "00:15:24,560",
+      "text": "if there would have been Mass transfer"
+    },
+    {
+      "end_time": 930.8,
+      "end_time_text": "00:15:30,800",
+      "index": 324,
+      "start_time": 927.04,
+      "start_time_text": "00:15:27,040",
+      "text": "in the face of Arab peace because I feel"
+    },
+    {
+      "end_time": 932.839,
+      "end_time_text": "00:15:32,839",
+      "index": 325,
+      "start_time": 928.8,
+      "start_time_text": "00:15:28,800",
+      "text": "like every time there was a huge deal on"
+    },
+    {
+      "end_time": 935.199,
+      "end_time_text": "00:15:35,199",
+      "index": 326,
+      "start_time": 930.8,
+      "start_time_text": "00:15:30,800",
+      "text": "the table that would have had a sizable"
+    },
+    {
+      "end_time": 937.04,
+      "end_time_text": "00:15:37,040",
+      "index": 327,
+      "start_time": 932.839,
+      "start_time_text": "00:15:32,839",
+      "text": "Jewish and Arab population living"
+    },
+    {
+      "end_time": 938.92,
+      "end_time_text": "00:15:38,920",
+      "index": 328,
+      "start_time": 935.199,
+      "start_time_text": "00:15:35,199",
+      "text": "together the Arabs would reject it out"
+    },
+    {
+      "end_time": 940.36,
+      "end_time_text": "00:15:40,360",
+      "index": 329,
+      "start_time": 937.04,
+      "start_time_text": "00:15:37,040",
+      "text": "of hand so for instance when we say that"
+    },
+    {
+      "end_time": 942.519,
+      "end_time_text": "00:15:42,519",
+      "index": 330,
+      "start_time": 938.92,
+      "start_time_text": "00:15:38,920",
+      "text": "transfer was inevitable when we say that"
+    },
+    {
+      "end_time": 944.8,
+      "end_time_text": "00:15:44,800",
+      "index": 331,
+      "start_time": 940.36,
+      "start_time_text": "00:15:40,360",
+      "text": "zionists would have never accepted you"
+    },
+    {
+      "end_time": 946.6,
+      "end_time_text": "00:15:46,600",
+      "index": 332,
+      "start_time": 942.519,
+      "start_time_text": "00:15:42,519",
+      "text": "know sizable Arab population how do you"
+    },
+    {
+      "end_time": 948.079,
+      "end_time_text": "00:15:48,079",
+      "index": 333,
+      "start_time": 944.8,
+      "start_time_text": "00:15:44,800",
+      "text": "explain the acceptance of the 47"
+    },
+    {
+      "end_time": 949.8,
+      "end_time_text": "00:15:49,800",
+      "index": 334,
+      "start_time": 946.6,
+      "start_time_text": "00:15:46,600",
+      "text": "partition plan that would have had a"
+    },
+    {
+      "end_time": 951.6,
+      "end_time_text": "00:15:51,600",
+      "index": 335,
+      "start_time": 948.079,
+      "start_time_text": "00:15:48,079",
+      "text": "huge Arab population living in the"
+    },
+    {
+      "end_time": 953.519,
+      "end_time_text": "00:15:53,519",
+      "index": 336,
+      "start_time": 949.8,
+      "start_time_text": "00:15:49,800",
+      "text": "Jewish state is your contention that"
+    },
+    {
+      "end_time": 955.04,
+      "end_time_text": "00:15:55,040",
+      "index": 337,
+      "start_time": 951.6,
+      "start_time_text": "00:15:51,600",
+      "text": "after the acceptance of that after the"
+    },
+    {
+      "end_time": 956.88,
+      "end_time_text": "00:15:56,880",
+      "index": 338,
+      "start_time": 953.519,
+      "start_time_text": "00:15:53,519",
+      "text": "establishment of that state that Jews"
+    },
+    {
+      "end_time": 958.639,
+      "end_time_text": "00:15:58,639",
+      "index": 339,
+      "start_time": 955.04,
+      "start_time_text": "00:15:55,040",
+      "text": "would have slowly started to expel all"
+    },
+    {
+      "end_time": 959.48,
+      "end_time_text": "00:15:59,480",
+      "index": 340,
+      "start_time": 956.88,
+      "start_time_text": "00:15:56,880",
+      "text": "of these Arab citizens from their"
+    },
+    {
+      "end_time": 961.759,
+      "end_time_text": "00:16:01,759",
+      "index": 341,
+      "start_time": 958.639,
+      "start_time_text": "00:15:58,639",
+      "text": "country"
+    },
+    {
+      "end_time": 963.759,
+      "end_time_text": "00:16:03,759",
+      "index": 342,
+      "start_time": 959.48,
+      "start_time_text": "00:15:59,480",
+      "text": "or how do you explain that in LC couple"
+    },
+    {
+      "end_time": 966.639,
+      "end_time_text": "00:16:06,639",
+      "index": 343,
+      "start_time": 961.759,
+      "start_time_text": "00:16:01,759",
+      "text": "years later that Israel was willing to"
+    },
+    {
+      "end_time": 969.68,
+      "end_time_text": "00:16:09,680",
+      "index": 344,
+      "start_time": 963.759,
+      "start_time_text": "00:16:03,759",
+      "text": "formally Annex the Gaza Strip and make"
+    },
+    {
+      "end_time": 971.399,
+      "end_time_text": "00:16:11,399",
+      "index": 345,
+      "start_time": 966.639,
+      "start_time_text": "00:16:06,639",
+      "text": "200,000 or so people those citizens but"
+    },
+    {
+      "end_time": 974.6,
+      "end_time_text": "00:16:14,600",
+      "index": 346,
+      "start_time": 969.68,
+      "start_time_text": "00:16:09,680",
+      "text": "but I'm I'm just curious how how do we"
+    },
+    {
+      "end_time": 976.92,
+      "end_time_text": "00:16:16,920",
+      "index": 347,
+      "start_time": 971.399,
+      "start_time_text": "00:16:11,399",
+      "text": "get this idea of Zionism always means"
+    },
+    {
+      "end_time": 979.04,
+      "end_time_text": "00:16:19,040",
+      "index": 348,
+      "start_time": 974.6,
+      "start_time_text": "00:16:14,600",
+      "text": "Mass transfer when there were times at"
+    },
+    {
+      "end_time": 980.56,
+      "end_time_text": "00:16:20,560",
+      "index": 349,
+      "start_time": 976.92,
+      "start_time_text": "00:16:16,920",
+      "text": "least early on in the history of Israel"
+    },
+    {
+      "end_time": 982.36,
+      "end_time_text": "00:16:22,360",
+      "index": 350,
+      "start_time": 979.04,
+      "start_time_text": "00:16:19,040",
+      "text": "and and a little bit before it where"
+    },
+    {
+      "end_time": 984.12,
+      "end_time_text": "00:16:24,120",
+      "index": 351,
+      "start_time": 980.56,
+      "start_time_text": "00:16:20,560",
+      "text": "Israel would have accepted a state that"
+    },
+    {
+      "end_time": 985.8,
+      "end_time_text": "00:16:25,800",
+      "index": 352,
+      "start_time": 982.36,
+      "start_time_text": "00:16:22,360",
+      "text": "would have had a massive Arab population"
+    },
+    {
+      "end_time": 986.92,
+      "end_time_text": "00:16:26,920",
+      "index": 353,
+      "start_time": 984.12,
+      "start_time_text": "00:16:24,120",
+      "text": "in it is your yeah is your idea that"
+    },
+    {
+      "end_time": 989.759,
+      "end_time_text": "00:16:29,759",
+      "index": 354,
+      "start_time": 985.8,
+      "start_time_text": "00:16:25,800",
+      "text": "they would have just slowly expelled"
+    },
+    {
+      "end_time": 990.8,
+      "end_time_text": "00:16:30,800",
+      "index": 355,
+      "start_time": 986.92,
+      "start_time_text": "00:16:26,920",
+      "text": "them afterwards or is that question to"
+    },
+    {
+      "end_time": 993.12,
+      "end_time_text": "00:16:33,120",
+      "index": 356,
+      "start_time": 989.759,
+      "start_time_text": "00:16:29,759",
+      "text": "either one I'm just curious with the"
+    },
+    {
+      "end_time": 996.279,
+      "end_time_text": "00:16:36,279",
+      "index": 357,
+      "start_time": 990.8,
+      "start_time_text": "00:16:30,800",
+      "text": "incorporation of the answer yeah um"
+    },
+    {
+      "end_time": 999.88,
+      "end_time_text": "00:16:39,880",
+      "index": 358,
+      "start_time": 993.12,
+      "start_time_text": "00:16:33,120",
+      "text": "there is some misunderstandings here so"
+    },
+    {
+      "end_time": 1003.8,
+      "end_time_text": "00:16:43,800",
+      "index": 359,
+      "start_time": 996.279,
+      "start_time_text": "00:16:36,279",
+      "text": "let's try to clarify that number"
+    },
+    {
+      "end_time": 1006.72,
+      "end_time_text": "00:16:46,720",
+      "index": 360,
+      "start_time": 999.88,
+      "start_time_text": "00:16:39,880",
+      "text": "one it was the old historians who would"
+    },
+    {
+      "end_time": 1009.279,
+      "end_time_text": "00:16:49,279",
+      "index": 361,
+      "start_time": 1003.8,
+      "start_time_text": "00:16:43,800",
+      "text": "point to the fact in Professor Morris's"
+    },
+    {
+      "end_time": 1011.16,
+      "end_time_text": "00:16:51,160",
+      "index": 362,
+      "start_time": 1006.72,
+      "start_time_text": "00:16:46,720",
+      "text": "terminology the old historians what he"
+    },
+    {
+      "end_time": 1014.319,
+      "end_time_text": "00:16:54,319",
+      "index": 363,
+      "start_time": 1009.279,
+      "start_time_text": "00:16:49,279",
+      "text": "called not real historians he called"
+    },
+    {
+      "end_time": 1018.199,
+      "end_time_text": "00:16:58,199",
+      "index": 364,
+      "start_time": 1011.16,
+      "start_time_text": "00:16:51,160",
+      "text": "them chroniclers not real historians it"
+    },
+    {
+      "end_time": 1019.72,
+      "end_time_text": "00:16:59,720",
+      "index": 365,
+      "start_time": 1014.319,
+      "start_time_text": "00:16:54,319",
+      "text": "was the old Israeli historians who"
+    },
+    {
+      "end_time": 1024.52,
+      "end_time_text": "00:17:04,520",
+      "index": 366,
+      "start_time": 1018.199,
+      "start_time_text": "00:16:58,199",
+      "text": "denied"
+    },
+    {
+      "end_time": 1028.12,
+      "end_time_text": "00:17:08,120",
+      "index": 367,
+      "start_time": 1019.72,
+      "start_time_text": "00:16:59,720",
+      "text": "the centrality of transfer in Zionist"
+    },
+    {
+      "end_time": 1032.24,
+      "end_time_text": "00:17:12,240",
+      "index": 368,
+      "start_time": 1024.52,
+      "start_time_text": "00:17:04,520",
+      "text": "thinking it was then Professor"
+    },
+    {
+      "end_time": 1033.72,
+      "end_time_text": "00:17:13,720",
+      "index": 369,
+      "start_time": 1028.12,
+      "start_time_text": "00:17:08,120",
+      "text": "moris who contrary to Israel's historic"
+    },
+    {
+      "end_time": 1036.88,
+      "end_time_text": "00:17:16,880",
+      "index": 370,
+      "start_time": 1032.24,
+      "start_time_text": "00:17:12,240",
+      "text": "historian"
+    },
+    {
+      "end_time": 1038.839,
+      "end_time_text": "00:17:18,839",
+      "index": 371,
+      "start_time": 1033.72,
+      "start_time_text": "00:17:13,720",
+      "text": "establishment who said now you remind me"
+    },
+    {
+      "end_time": 1040.319,
+      "end_time_text": "00:17:20,319",
+      "index": 372,
+      "start_time": 1036.88,
+      "start_time_text": "00:17:16,880",
+      "text": "it's four pages but it came at the end"
+    },
+    {
+      "end_time": 1042.76,
+      "end_time_text": "00:17:22,760",
+      "index": 373,
+      "start_time": 1038.839,
+      "start_time_text": "00:17:18,839",
+      "text": "of the book it was no no it's at the"
+    },
+    {
+      "end_time": 1044.919,
+      "end_time_text": "00:17:24,919",
+      "index": 374,
+      "start_time": 1040.319,
+      "start_time_text": "00:17:20,319",
+      "text": "beginning of the book transfer transfer"
+    },
+    {
+      "end_time": 1046.76,
+      "end_time_text": "00:17:26,760",
+      "index": 375,
+      "start_time": 1042.76,
+      "start_time_text": "00:17:22,760",
+      "text": "is dealt with in four pages at the"
+    },
+    {
+      "end_time": 1049.16,
+      "end_time_text": "00:17:29,160",
+      "index": 376,
+      "start_time": 1044.919,
+      "start_time_text": "00:17:24,919",
+      "text": "beginning of my first book on the"
+    },
+    {
+      "end_time": 1051.16,
+      "end_time_text": "00:17:31,160",
+      "index": 377,
+      "start_time": 1046.76,
+      "start_time_text": "00:17:26,760",
+      "text": "Palestinian refugee problem it's a my"
+    },
+    {
+      "end_time": 1054.64,
+      "end_time_text": "00:17:34,640",
+      "index": 378,
+      "start_time": 1049.16,
+      "start_time_text": "00:17:29,160",
+      "text": "memory but the point still stands it was"
+    },
+    {
+      "end_time": 1056.76,
+      "end_time_text": "00:17:36,760",
+      "index": 379,
+      "start_time": 1051.16,
+      "start_time_text": "00:17:31,160",
+      "text": "Professor Maris who introduced this idea"
+    },
+    {
+      "end_time": 1059.0,
+      "end_time_text": "00:17:39,000",
+      "index": 380,
+      "start_time": 1054.64,
+      "start_time_text": "00:17:34,640",
+      "text": "in what you might call a big way yeah"
+    },
+    {
+      "end_time": 1063.0,
+      "end_time_text": "00:17:43,000",
+      "index": 381,
+      "start_time": 1056.76,
+      "start_time_text": "00:17:36,760",
+      "text": "but I didn't say every the central to"
+    },
+    {
+      "end_time": 1064.96,
+      "end_time_text": "00:17:44,960",
+      "index": 382,
+      "start_time": 1059.0,
+      "start_time_text": "00:17:39,000",
+      "text": "Des Des experiment or experience you're"
+    },
+    {
+      "end_time": 1067.08,
+      "end_time_text": "00:17:47,080",
+      "index": 383,
+      "start_time": 1063.0,
+      "start_time_text": "00:17:43,000",
+      "text": "saying centrality I never said it was"
+    },
+    {
+      "end_time": 1068.6,
+      "end_time_text": "00:17:48,600",
+      "index": 384,
+      "start_time": 1064.96,
+      "start_time_text": "00:17:44,960",
+      "text": "Central I said it was there the idea"
+    },
+    {
+      "end_time": 1070.48,
+      "end_time_text": "00:17:50,480",
+      "index": 385,
+      "start_time": 1067.08,
+      "start_time_text": "00:17:47,080",
+      "text": "it's by the way it's okay to respond"
+    },
+    {
+      "end_time": 1073.32,
+      "end_time_text": "00:17:53,320",
+      "index": 386,
+      "start_time": 1068.6,
+      "start_time_text": "00:17:48,600",
+      "text": "back and forth this is great and also"
+    },
+    {
+      "end_time": 1075.52,
+      "end_time_text": "00:17:55,520",
+      "index": 387,
+      "start_time": 1070.48,
+      "start_time_text": "00:17:50,480",
+      "text": "just a quick question if I may you're"
+    },
+    {
+      "end_time": 1078.12,
+      "end_time_text": "00:17:58,120",
+      "index": 388,
+      "start_time": 1073.32,
+      "start_time_text": "00:17:53,320",
+      "text": "using quotes from from Benny from"
+    },
+    {
+      "end_time": 1080.76,
+      "end_time_text": "00:18:00,760",
+      "index": 389,
+      "start_time": 1075.52,
+      "start_time_text": "00:17:55,520",
+      "text": "Professor Morris uh it's also okay to"
+    },
+    {
+      "end_time": 1084.159,
+      "end_time_text": "00:18:04,159",
+      "index": 390,
+      "start_time": 1078.12,
+      "start_time_text": "00:17:58,120",
+      "text": "say those quotes do not reflect the cont"
+    },
+    {
+      "end_time": 1086.24,
+      "end_time_text": "00:18:06,240",
+      "index": 391,
+      "start_time": 1080.76,
+      "start_time_text": "00:18:00,760",
+      "text": "of so like if we go back if you know to"
+    },
+    {
+      "end_time": 1088.76,
+      "end_time_text": "00:18:08,760",
+      "index": 392,
+      "start_time": 1084.159,
+      "start_time_text": "00:18:04,159",
+      "text": "quotes we've said in the past and you've"
+    },
+    {
+      "end_time": 1091.2,
+      "end_time_text": "00:18:11,200",
+      "index": 393,
+      "start_time": 1086.24,
+      "start_time_text": "00:18:06,240",
+      "text": "both here have written the three of you"
+    },
+    {
+      "end_time": 1093.52,
+      "end_time_text": "00:18:13,520",
+      "index": 394,
+      "start_time": 1088.76,
+      "start_time_text": "00:18:08,760",
+      "text": "have written on this topic a lot is we"
+    },
+    {
+      "end_time": 1095.4,
+      "end_time_text": "00:18:15,400",
+      "index": 395,
+      "start_time": 1091.2,
+      "start_time_text": "00:18:11,200",
+      "text": "should be careful and just admit like"
+    },
+    {
+      "end_time": 1097.559,
+      "end_time_text": "00:18:17,559",
+      "index": 396,
+      "start_time": 1093.52,
+      "start_time_text": "00:18:13,520",
+      "text": "well yeah well that's real quick just to"
+    },
+    {
+      "end_time": 1099.12,
+      "end_time_text": "00:18:19,120",
+      "index": 397,
+      "start_time": 1095.4,
+      "start_time_text": "00:18:15,400",
+      "text": "be clear the contention is that Norm is"
+    },
+    {
+      "end_time": 1100.72,
+      "end_time_text": "00:18:20,720",
+      "index": 398,
+      "start_time": 1097.559,
+      "start_time_text": "00:18:17,559",
+      "text": "quoting a part and saying that this was"
+    },
+    {
+      "end_time": 1104.44,
+      "end_time_text": "00:18:24,440",
+      "index": 399,
+      "start_time": 1099.12,
+      "start_time_text": "00:18:19,120",
+      "text": "the entire reason for this whereas Benny"
+    },
+    {
+      "end_time": 1109.559,
+      "end_time_text": "00:18:29,559",
+      "index": 400,
+      "start_time": 1100.72,
+      "start_time_text": "00:18:20,720",
+      "text": "saying it's a part of I'm not quoting"
+    },
+    {
+      "end_time": 1112.48,
+      "end_time_text": "00:18:32,480",
+      "index": 401,
+      "start_time": 1104.44,
+      "start_time_text": "00:18:24,440",
+      "text": "aart I'm quoting 25 pages where"
+    },
+    {
+      "end_time": 1116.0,
+      "end_time_text": "00:18:36,000",
+      "index": 402,
+      "start_time": 1109.559,
+      "start_time_text": "00:18:29,559",
+      "text": "Professor mors was at Great"
+    },
+    {
+      "end_time": 1118.84,
+      "end_time_text": "00:18:38,840",
+      "index": 403,
+      "start_time": 1112.48,
+      "start_time_text": "00:18:32,480",
+      "text": "pains to document the claim that"
+    },
+    {
+      "end_time": 1119.72,
+      "end_time_text": "00:18:39,720",
+      "index": 404,
+      "start_time": 1116.0,
+      "start_time_text": "00:18:36,000",
+      "text": "appeared in those early four pages of"
+    },
+    {
+      "end_time": 1126.6,
+      "end_time_text": "00:18:46,600",
+      "index": 405,
+      "start_time": 1118.84,
+      "start_time_text": "00:18:38,840",
+      "text": "his"
+    },
+    {
+      "end_time": 1129.6,
+      "end_time_text": "00:18:49,600",
+      "index": 406,
+      "start_time": 1119.72,
+      "start_time_text": "00:18:39,720",
+      "text": "book now you say it never became part of"
+    },
+    {
+      "end_time": 1132.96,
+      "end_time_text": "00:18:52,960",
+      "index": 407,
+      "start_time": 1126.6,
+      "start_time_text": "00:18:46,600",
+      "text": "the official Zionist platform never"
+    },
+    {
+      "end_time": 1132.96,
+      "end_time_text": "00:18:52,960",
+      "index": 408,
+      "start_time": 1129.6,
+      "start_time_text": "00:18:49,600",
+      "text": "became part of"
+    },
+    {
+      "end_time": 1138.08,
+      "end_time_text": "00:18:58,080",
+      "index": 409,
+      "start_time": 1133.4,
+      "start_time_text": "00:18:53,400",
+      "text": "policy we're also asked well this is"
+    },
+    {
+      "end_time": 1141.08,
+      "end_time_text": "00:19:01,080",
+      "index": 410,
+      "start_time": 1135.96,
+      "start_time_text": "00:18:55,960",
+      "text": "true why did that happen why did that"
+    },
+    {
+      "end_time": 1144.0,
+      "end_time_text": "00:19:04,000",
+      "index": 411,
+      "start_time": 1138.08,
+      "start_time_text": "00:18:58,080",
+      "text": "happen it's because it's a very simple"
+    },
+    {
+      "end_time": 1147.159,
+      "end_time_text": "00:19:07,159",
+      "index": 412,
+      "start_time": 1141.08,
+      "start_time_text": "00:19:01,080",
+      "text": "fact which everybody understands"
+    },
+    {
+      "end_time": 1151.36,
+      "end_time_text": "00:19:11,360",
+      "index": 413,
+      "start_time": 1144.0,
+      "start_time_text": "00:19:04,000",
+      "text": "ideology doesn't operate in a vacuum"
+    },
+    {
+      "end_time": 1153.52,
+      "end_time_text": "00:19:13,520",
+      "index": 414,
+      "start_time": 1147.159,
+      "start_time_text": "00:19:07,159",
+      "text": "there are real world practical problems"
+    },
+    {
+      "end_time": 1156.44,
+      "end_time_text": "00:19:16,440",
+      "index": 415,
+      "start_time": 1151.36,
+      "start_time_text": "00:19:11,360",
+      "text": "you can't just take an"
+    },
+    {
+      "end_time": 1159.72,
+      "end_time_text": "00:19:19,720",
+      "index": 416,
+      "start_time": 1153.52,
+      "start_time_text": "00:19:13,520",
+      "text": "ideology and superimpose it on a"
+    },
+    {
+      "end_time": 1163.4,
+      "end_time_text": "00:19:23,400",
+      "index": 417,
+      "start_time": 1156.44,
+      "start_time_text": "00:19:16,440",
+      "text": "political reality and turn it into a"
+    },
+    {
+      "end_time": 1167.36,
+      "end_time_text": "00:19:27,360",
+      "index": 418,
+      "start_time": 1159.72,
+      "start_time_text": "00:19:19,720",
+      "text": "fact it was the British"
+    },
+    {
+      "end_time": 1170.159,
+      "end_time_text": "00:19:30,159",
+      "index": 419,
+      "start_time": 1163.4,
+      "start_time_text": "00:19:23,400",
+      "text": "mandate there was significant Arab"
+    },
+    {
+      "end_time": 1173.2,
+      "end_time_text": "00:19:33,200",
+      "index": 420,
+      "start_time": 1167.36,
+      "start_time_text": "00:19:27,360",
+      "text": "resistance to"
+    },
+    {
+      "end_time": 1176.28,
+      "end_time_text": "00:19:36,280",
+      "index": 421,
+      "start_time": 1170.159,
+      "start_time_text": "00:19:30,159",
+      "text": "Zionism and that resistance was based on"
+    },
+    {
+      "end_time": 1179.039,
+      "end_time_text": "00:19:39,039",
+      "index": 422,
+      "start_time": 1173.2,
+      "start_time_text": "00:19:33,200",
+      "text": "the fact as you said the fear of"
+    },
+    {
+      "end_time": 1181.84,
+      "end_time_text": "00:19:41,840",
+      "index": 423,
+      "start_time": 1176.28,
+      "start_time_text": "00:19:36,280",
+      "text": "territorial displacement and"
+    },
+    {
+      "end_time": 1185.159,
+      "end_time_text": "00:19:45,159",
+      "index": 424,
+      "start_time": 1179.039,
+      "start_time_text": "00:19:39,039",
+      "text": "dispossession so you couldn't very well"
+    },
+    {
+      "end_time": 1189.2,
+      "end_time_text": "00:19:49,200",
+      "index": 425,
+      "start_time": 1181.84,
+      "start_time_text": "00:19:41,840",
+      "text": "expect the Zionist movement to come out"
+    },
+    {
+      "end_time": 1191.32,
+      "end_time_text": "00:19:51,320",
+      "index": 426,
+      "start_time": 1185.159,
+      "start_time_text": "00:19:45,159",
+      "text": "in neon lights and announce hey we're"
+    },
+    {
+      "end_time": 1194.36,
+      "end_time_text": "00:19:54,360",
+      "index": 427,
+      "start_time": 1189.2,
+      "start_time_text": "00:19:49,200",
+      "text": "going to be expelling you the first"
+    },
+    {
+      "end_time": 1196.84,
+      "end_time_text": "00:19:56,840",
+      "index": 428,
+      "start_time": 1191.32,
+      "start_time_text": "00:19:51,320",
+      "text": "chance we get can I that's not realistic"
+    },
+    {
+      "end_time": 1199.28,
+      "end_time_text": "00:19:59,280",
+      "index": 429,
+      "start_time": 1194.36,
+      "start_time_text": "00:19:54,360",
+      "text": "okay can no let me respond look you said"
+    },
+    {
+      "end_time": 1204.039,
+      "end_time_text": "00:20:04,039",
+      "index": 430,
+      "start_time": 1196.84,
+      "start_time_text": "00:19:56,840",
+      "text": "you've said it a number of times"
+    },
+    {
+      "end_time": 1207.08,
+      "end_time_text": "00:20:07,080",
+      "index": 431,
+      "start_time": 1199.28,
+      "start_time_text": "00:19:59,280",
+      "text": "um um the Arabs from fairly early on in"
+    },
+    {
+      "end_time": 1209.799,
+      "end_time_text": "00:20:09,799",
+      "index": 432,
+      "start_time": 1204.039,
+      "start_time_text": "00:20:04,039",
+      "text": "the be in the conflict from the 1890s or"
+    },
+    {
+      "end_time": 1211.6,
+      "end_time_text": "00:20:11,600",
+      "index": 433,
+      "start_time": 1207.08,
+      "start_time_text": "00:20:07,080",
+      "text": "the early 1900s said the Jews intend to"
+    },
+    {
+      "end_time": 1214.679,
+      "end_time_text": "00:20:14,679",
+      "index": 434,
+      "start_time": 1209.799,
+      "start_time_text": "00:20:09,799",
+      "text": "expel us this doesn't mean that it's"
+    },
+    {
+      "end_time": 1216.64,
+      "end_time_text": "00:20:16,640",
+      "index": 435,
+      "start_time": 1211.6,
+      "start_time_text": "00:20:11,600",
+      "text": "true it means that some Arabs said this"
+    },
+    {
+      "end_time": 1218.76,
+      "end_time_text": "00:20:18,760",
+      "index": 436,
+      "start_time": 1214.679,
+      "start_time_text": "00:20:14,679",
+      "text": "maybe believing it was true maybe using"
+    },
+    {
+      "end_time": 1221.2,
+      "end_time_text": "00:20:21,200",
+      "index": 437,
+      "start_time": 1216.64,
+      "start_time_text": "00:20:16,640",
+      "text": "it as a political instrument to gain"
+    },
+    {
+      "end_time": 1223.679,
+      "end_time_text": "00:20:23,679",
+      "index": 438,
+      "start_time": 1218.76,
+      "start_time_text": "00:20:18,760",
+      "text": "support to mobilize Arabs against the"
+    },
+    {
+      "end_time": 1226.4,
+      "end_time_text": "00:20:26,400",
+      "index": 439,
+      "start_time": 1221.2,
+      "start_time_text": "00:20:21,200",
+      "text": "Zionist experiment but the fact is"
+    },
+    {
+      "end_time": 1231.0,
+      "end_time_text": "00:20:31,000",
+      "index": 440,
+      "start_time": 1223.679,
+      "start_time_text": "00:20:23,679",
+      "text": "transfer did not occur before"
+    },
+    {
+      "end_time": 1232.88,
+      "end_time_text": "00:20:32,880",
+      "index": 441,
+      "start_time": 1226.4,
+      "start_time_text": "00:20:26,400",
+      "text": "1947 um an Arab later said and then and"
+    },
+    {
+      "end_time": 1235.44,
+      "end_time_text": "00:20:35,440",
+      "index": 442,
+      "start_time": 1231.0,
+      "start_time_text": "00:20:31,000",
+      "text": "since then have said that the Jews want"
+    },
+    {
+      "end_time": 1238.28,
+      "end_time_text": "00:20:38,280",
+      "index": 443,
+      "start_time": 1232.88,
+      "start_time_text": "00:20:32,880",
+      "text": "to build a third temple on the Temple"
+    },
+    {
+      "end_time": 1240.88,
+      "end_time_text": "00:20:40,880",
+      "index": 444,
+      "start_time": 1235.44,
+      "start_time_text": "00:20:35,440",
+      "text": "Mount as if that's what really the the"
+    },
+    {
+      "end_time": 1242.679,
+      "end_time_text": "00:20:42,679",
+      "index": 445,
+      "start_time": 1238.28,
+      "start_time_text": "00:20:38,280",
+      "text": "mainstream of Zionism has always wanted"
+    },
+    {
+      "end_time": 1244.679,
+      "end_time_text": "00:20:44,679",
+      "index": 446,
+      "start_time": 1240.88,
+      "start_time_text": "00:20:40,880",
+      "text": "and always strived for but this is"
+    },
+    {
+      "end_time": 1247.76,
+      "end_time_text": "00:20:47,760",
+      "index": 447,
+      "start_time": 1242.679,
+      "start_time_text": "00:20:42,679",
+      "text": "nonsense it's something that kusini used"
+    },
+    {
+      "end_time": 1250.96,
+      "end_time_text": "00:20:50,960",
+      "index": 448,
+      "start_time": 1244.679,
+      "start_time_text": "00:20:44,679",
+      "text": "to use as a way to mobilize"
+    },
+    {
+      "end_time": 1253.679,
+      "end_time_text": "00:20:53,679",
+      "index": 449,
+      "start_time": 1247.76,
+      "start_time_text": "00:20:47,760",
+      "text": "masses for the cause using religion as"
+    },
+    {
+      "end_time": 1257.08,
+      "end_time_text": "00:20:57,080",
+      "index": 450,
+      "start_time": 1250.96,
+      "start_time_text": "00:20:50,960",
+      "text": "as the way to get them to to join join"
+    },
+    {
+      "end_time": 1260.28,
+      "end_time_text": "00:21:00,280",
+      "index": 451,
+      "start_time": 1253.679,
+      "start_time_text": "00:20:53,679",
+      "text": "him um the fact that Arabs said that"
+    },
+    {
+      "end_time": 1261.52,
+      "end_time_text": "00:21:01,520",
+      "index": 452,
+      "start_time": 1257.08,
+      "start_time_text": "00:20:57,080",
+      "text": "they the Zion want to this dispossess us"
+    },
+    {
+      "end_time": 1264.559,
+      "end_time_text": "00:21:04,559",
+      "index": 453,
+      "start_time": 1260.28,
+      "start_time_text": "00:21:00,280",
+      "text": "doesn't mean it's true it just means"
+    },
+    {
+      "end_time": 1266.64,
+      "end_time_text": "00:21:06,640",
+      "index": 454,
+      "start_time": 1261.52,
+      "start_time_text": "00:21:01,520",
+      "text": "that there some Arabs thought that maybe"
+    },
+    {
+      "end_time": 1269.4,
+      "end_time_text": "00:21:09,400",
+      "index": 455,
+      "start_time": 1264.559,
+      "start_time_text": "00:21:04,559",
+      "text": "maybe said it sincerely and maybe"
+    },
+    {
+      "end_time": 1271.4,
+      "end_time_text": "00:21:11,400",
+      "index": 456,
+      "start_time": 1266.64,
+      "start_time_text": "00:21:06,640",
+      "text": "insincerely Professor moris later it"
+    },
+    {
+      "end_time": 1273.799,
+      "end_time_text": "00:21:13,799",
+      "index": 457,
+      "start_time": 1269.4,
+      "start_time_text": "00:21:09,400",
+      "text": "became a self-fulfilling prophecy this"
+    },
+    {
+      "end_time": 1276.4,
+      "end_time_text": "00:21:16,400",
+      "index": 458,
+      "start_time": 1271.4,
+      "start_time_text": "00:21:11,400",
+      "text": "is true Arabs attacked the Jews"
+    },
+    {
+      "end_time": 1278.76,
+      "end_time_text": "00:21:18,760",
+      "index": 459,
+      "start_time": 1273.799,
+      "start_time_text": "00:21:13,799",
+      "text": "Professor Morris I read through your"
+    },
+    {
+      "end_time": 1280.64,
+      "end_time_text": "00:21:20,640",
+      "index": 460,
+      "start_time": 1276.4,
+      "start_time_text": "00:21:16,400",
+      "text": "stuff even yesterday I was looking"
+    },
+    {
+      "end_time": 1283.08,
+      "end_time_text": "00:21:23,080",
+      "index": 461,
+      "start_time": 1278.76,
+      "start_time_text": "00:21:18,760",
+      "text": "through righteous victim you should read"
+    },
+    {
+      "end_time": 1285.919,
+      "end_time_text": "00:21:25,919",
+      "index": 462,
+      "start_time": 1280.64,
+      "start_time_text": "00:21:20,640",
+      "text": "other things you're wasting your time no"
+    },
+    {
+      "end_time": 1287.48,
+      "end_time_text": "00:21:27,480",
+      "index": 463,
+      "start_time": 1283.08,
+      "start_time_text": "00:21:23,080",
+      "text": "no actually no I do read other things"
+    },
+    {
+      "end_time": 1290.52,
+      "end_time_text": "00:21:30,520",
+      "index": 464,
+      "start_time": 1285.919,
+      "start_time_text": "00:21:25,919",
+      "text": "but I don't consider it a waste of time"
+    },
+    {
+      "end_time": 1290.52,
+      "end_time_text": "00:21:30,520",
+      "index": 465,
+      "start_time": 1287.48,
+      "start_time_text": "00:21:27,480",
+      "text": "to read you not at"
+    },
+    {
+      "end_time": 1294.36,
+      "end_time_text": "00:21:34,360",
+      "index": 466,
+      "start_time": 1290.6,
+      "start_time_text": "00:21:30,600",
+      "text": "um you say"
+    },
+    {
+      "end_time": 1300.96,
+      "end_time_text": "00:21:40,960",
+      "index": 467,
+      "start_time": 1294.799,
+      "start_time_text": "00:21:34,799",
+      "text": "that this wasn't inherent in Zionism now"
+    },
+    {
+      "end_time": 1302.44,
+      "end_time_text": "00:21:42,440",
+      "index": 468,
+      "start_time": 1299.12,
+      "start_time_text": "00:21:39,120",
+      "text": "would you all agree that benor David"
+    },
+    {
+      "end_time": 1305.48,
+      "end_time_text": "00:21:45,480",
+      "index": 469,
+      "start_time": 1300.96,
+      "start_time_text": "00:21:40,960",
+      "text": "benorian was a"
+    },
+    {
+      "end_time": 1308.799,
+      "end_time_text": "00:21:48,799",
+      "index": 470,
+      "start_time": 1302.44,
+      "start_time_text": "00:21:42,440",
+      "text": "Zionist a Zion a major Zionist right"
+    },
+    {
+      "end_time": 1311.84,
+      "end_time_text": "00:21:51,840",
+      "index": 471,
+      "start_time": 1305.48,
+      "start_time_text": "00:21:45,480",
+      "text": "would you agree Ken vitman was a Zionist"
+    },
+    {
+      "end_time": 1314.36,
+      "end_time_text": "00:21:54,360",
+      "index": 472,
+      "start_time": 1308.799,
+      "start_time_text": "00:21:48,799",
+      "text": "yeah okay I believe they were I believe"
+    },
+    {
+      "end_time": 1315.679,
+      "end_time_text": "00:21:55,679",
+      "index": 473,
+      "start_time": 1311.84,
+      "start_time_text": "00:21:51,840",
+      "text": "they took their ideology seriously it"
+    },
+    {
+      "end_time": 1318.08,
+      "end_time_text": "00:21:58,080",
+      "index": 474,
+      "start_time": 1314.36,
+      "start_time_text": "00:21:54,360",
+      "text": "was the first"
+    },
+    {
+      "end_time": 1320.36,
+      "end_time_text": "00:22:00,360",
+      "index": 475,
+      "start_time": 1315.679,
+      "start_time_text": "00:21:55,679",
+      "text": "generation just like with the Bolsheviks"
+    },
+    {
+      "end_time": 1324.159,
+      "end_time_text": "00:22:04,159",
+      "index": 476,
+      "start_time": 1318.08,
+      "start_time_text": "00:21:58,080",
+      "text": "the first generation was committed to an"
+    },
+    {
+      "end_time": 1327.48,
+      "end_time_text": "00:22:07,480",
+      "index": 477,
+      "start_time": 1320.36,
+      "start_time_text": "00:22:00,360",
+      "text": "idea by the 1930s it was just pure raop"
+    },
+    {
+      "end_time": 1329.72,
+      "end_time_text": "00:22:09,720",
+      "index": 478,
+      "start_time": 1324.159,
+      "start_time_text": "00:22:04,159",
+      "text": "politi the ideology went out the window"
+    },
+    {
+      "end_time": 1333.96,
+      "end_time_text": "00:22:13,960",
+      "index": 479,
+      "start_time": 1327.48,
+      "start_time_text": "00:22:07,480",
+      "text": "the first generation I have no doubt"
+    },
+    {
+      "end_time": 1336.84,
+      "end_time_text": "00:22:16,840",
+      "index": 480,
+      "start_time": 1329.72,
+      "start_time_text": "00:22:09,720",
+      "text": "about their convictions okay they were"
+    },
+    {
+      "end_time": 1339.96,
+      "end_time_text": "00:22:19,960",
+      "index": 481,
+      "start_time": 1333.96,
+      "start_time_text": "00:22:13,960",
+      "text": "zionists transfer was inevitable and"
+    },
+    {
+      "end_time": 1342.84,
+      "end_time_text": "00:22:22,840",
+      "index": 482,
+      "start_time": 1336.84,
+      "start_time_text": "00:22:16,840",
+      "text": "inbuilt in Zionism keep repeating the"
+    },
+    {
+      "end_time": 1346.44,
+      "end_time_text": "00:22:26,440",
+      "index": 483,
+      "start_time": 1339.96,
+      "start_time_text": "00:22:19,960",
+      "text": "same because I have as I said Benny Mr"
+    },
+    {
+      "end_time": 1350.159,
+      "end_time_text": "00:22:30,159",
+      "index": 484,
+      "start_time": 1342.84,
+      "start_time_text": "00:22:22,840",
+      "text": "moris I have a problem reconciling what"
+    },
+    {
+      "end_time": 1353.64,
+      "end_time_text": "00:22:33,640",
+      "index": 485,
+      "start_time": 1346.44,
+      "start_time_text": "00:22:26,440",
+      "text": "you're saying it either was"
+    },
+    {
+      "end_time": 1356.76,
+      "end_time_text": "00:22:36,760",
+      "index": 486,
+      "start_time": 1350.159,
+      "start_time_text": "00:22:30,159",
+      "text": "incidental or it was deeply"
+    },
+    {
+      "end_time": 1360.559,
+      "end_time_text": "00:22:40,559",
+      "index": 487,
+      "start_time": 1353.64,
+      "start_time_text": "00:22:33,640",
+      "text": "entrenched here I read it's deeply"
+    },
+    {
+      "end_time": 1363.88,
+      "end_time_text": "00:22:43,880",
+      "index": 488,
+      "start_time": 1356.76,
+      "start_time_text": "00:22:36,760",
+      "text": "entrenched two very resonant words"
+    },
+    {
+      "end_time": 1365.76,
+      "end_time_text": "00:22:45,760",
+      "index": 489,
+      "start_time": 1360.559,
+      "start_time_text": "00:22:40,559",
+      "text": "inevitable and inbuilt deeply entrenched"
+    },
+    {
+      "end_time": 1368.679,
+      "end_time_text": "00:22:48,679",
+      "index": 490,
+      "start_time": 1363.88,
+      "start_time_text": "00:22:43,880",
+      "text": "I never wrote well I'm not sure it's"
+    },
+    {
+      "end_time": 1372.52,
+      "end_time_text": "00:22:52,520",
+      "index": 491,
+      "start_time": 1365.76,
+      "start_time_text": "00:22:45,760",
+      "text": "something you just invented but but in"
+    },
+    {
+      "end_time": 1374.36,
+      "end_time_text": "00:22:54,360",
+      "index": 492,
+      "start_time": 1368.679,
+      "start_time_text": "00:22:48,679",
+      "text": "inevitable and the idea let me conceed"
+    },
+    {
+      "end_time": 1378.48,
+      "end_time_text": "00:22:58,480",
+      "index": 493,
+      "start_time": 1372.52,
+      "start_time_text": "00:22:52,520",
+      "text": "let me concede something the idea of"
+    },
+    {
+      "end_time": 1380.88,
+      "end_time_text": "00:23:00,880",
+      "index": 494,
+      "start_time": 1374.36,
+      "start_time_text": "00:22:54,360",
+      "text": "transfer was there Israel zangvil a"
+    },
+    {
+      "end_time": 1384.12,
+      "end_time_text": "00:23:04,120",
+      "index": 495,
+      "start_time": 1378.48,
+      "start_time_text": "00:22:58,480",
+      "text": "British Zionist talked about it early on"
+    },
+    {
+      "end_time": 1386.44,
+      "end_time_text": "00:23:06,440",
+      "index": 496,
+      "start_time": 1380.88,
+      "start_time_text": "00:23:00,880",
+      "text": "in the century even Herzel in some way"
+    },
+    {
+      "end_time": 1388.96,
+      "end_time_text": "00:23:08,960",
+      "index": 497,
+      "start_time": 1384.12,
+      "start_time_text": "00:23:04,120",
+      "text": "talked about transferring population"
+    },
+    {
+      "end_time": 1390.6,
+      "end_time_text": "00:23:10,600",
+      "index": 498,
+      "start_time": 1386.44,
+      "start_time_text": "00:23:06,440",
+      "text": "according to your 25 Pages everybody"
+    },
+    {
+      "end_time": 1393.32,
+      "end_time_text": "00:23:13,320",
+      "index": 499,
+      "start_time": 1388.96,
+      "start_time_text": "00:23:08,960",
+      "text": "talked about SEC we keep bringing up"
+    },
+    {
+      "end_time": 1396.32,
+      "end_time_text": "00:23:16,320",
+      "index": 500,
+      "start_time": 1390.6,
+      "start_time_text": "00:23:10,600",
+      "text": "this line from the 25 pages and the four"
+    },
+    {
+      "end_time": 1398.44,
+      "end_time_text": "00:23:18,440",
+      "index": 501,
+      "start_time": 1393.32,
+      "start_time_text": "00:23:13,320",
+      "text": "pages uh you know we're lucky to have"
+    },
+    {
+      "end_time": 1401.159,
+      "end_time_text": "00:23:21,159",
+      "index": 502,
+      "start_time": 1396.32,
+      "start_time_text": "00:23:16,320",
+      "text": "Benny in front of us right now we don't"
+    },
+    {
+      "end_time": 1403.88,
+      "end_time_text": "00:23:23,880",
+      "index": 503,
+      "start_time": 1398.44,
+      "start_time_text": "00:23:18,440",
+      "text": "need to go to the quotes at like we can"
+    },
+    {
+      "end_time": 1406.039,
+      "end_time_text": "00:23:26,039",
+      "index": 504,
+      "start_time": 1401.159,
+      "start_time_text": "00:23:21,159",
+      "text": "legitimately ask how Central is"
+    },
+    {
+      "end_time": 1409.159,
+      "end_time_text": "00:23:29,159",
+      "index": 505,
+      "start_time": 1403.88,
+      "start_time_text": "00:23:23,880",
+      "text": "expulsion to"
+    },
+    {
+      "end_time": 1411.919,
+      "end_time_text": "00:23:31,919",
+      "index": 506,
+      "start_time": 1406.039,
+      "start_time_text": "00:23:26,039",
+      "text": "Zionism uh in its early version of"
+    },
+    {
+      "end_time": 1416.76,
+      "end_time_text": "00:23:36,760",
+      "index": 507,
+      "start_time": 1409.159,
+      "start_time_text": "00:23:29,159",
+      "text": "Zionism and what whatever Zionism is"
+    },
+    {
+      "end_time": 1419.679,
+      "end_time_text": "00:23:39,679",
+      "index": 508,
+      "start_time": 1411.919,
+      "start_time_text": "00:23:31,919",
+      "text": "today and how much power uh influence"
+    },
+    {
+      "end_time": 1421.76,
+      "end_time_text": "00:23:41,760",
+      "index": 509,
+      "start_time": 1416.76,
+      "start_time_text": "00:23:36,760",
+      "text": "the Zionism and ideology have in Israel"
+    },
+    {
+      "end_time": 1424.0,
+      "end_time_text": "00:23:44,000",
+      "index": 510,
+      "start_time": 1419.679,
+      "start_time_text": "00:23:39,679",
+      "text": "and like influence the Phil the"
+    },
+    {
+      "end_time": 1428.0,
+      "end_time_text": "00:23:48,000",
+      "index": 511,
+      "start_time": 1421.76,
+      "start_time_text": "00:23:41,760",
+      "text": "philosophy the ideology Zionism have on"
+    },
+    {
+      "end_time": 1431.799,
+      "end_time_text": "00:23:51,799",
+      "index": 512,
+      "start_time": 1424.0,
+      "start_time_text": "00:23:44,000",
+      "text": "Israel today the Zionist movement up to"
+    },
+    {
+      "end_time": 1434.279,
+      "end_time_text": "00:23:54,279",
+      "index": 513,
+      "start_time": 1428.0,
+      "start_time_text": "00:23:48,000",
+      "text": "1948 Zionist ideology was Central to the"
+    },
+    {
+      "end_time": 1437.08,
+      "end_time_text": "00:23:57,080",
+      "index": 514,
+      "start_time": 1431.799,
+      "start_time_text": "00:23:51,799",
+      "text": "the whole Zionist experience the whole"
+    },
+    {
+      "end_time": 1440.679,
+      "end_time_text": "00:24:00,679",
+      "index": 515,
+      "start_time": 1434.279,
+      "start_time_text": "00:23:54,279",
+      "text": "Enterprise up to 1948 and I think"
+    },
+    {
+      "end_time": 1443.44,
+      "end_time_text": "00:24:03,440",
+      "index": 516,
+      "start_time": 1437.08,
+      "start_time_text": "00:23:57,080",
+      "text": "Zionist ideology was also important um"
+    },
+    {
+      "end_time": 1447.559,
+      "end_time_text": "00:24:07,559",
+      "index": 517,
+      "start_time": 1440.679,
+      "start_time_text": "00:24:00,679",
+      "text": "in the first Decades of Israel's"
+    },
+    {
+      "end_time": 1450.48,
+      "end_time_text": "00:24:10,480",
+      "index": 518,
+      "start_time": 1443.44,
+      "start_time_text": "00:24:03,440",
+      "text": "existence um slowly the the the um hold"
+    },
+    {
+      "end_time": 1453.4,
+      "end_time_text": "00:24:13,400",
+      "index": 519,
+      "start_time": 1447.559,
+      "start_time_text": "00:24:07,559",
+      "text": "of Zionism like if you like like like"
+    },
+    {
+      "end_time": 1455.44,
+      "end_time_text": "00:24:15,440",
+      "index": 520,
+      "start_time": 1450.48,
+      "start_time_text": "00:24:10,480",
+      "text": "bolshevism held the Soviet Union"
+    },
+    {
+      "end_time": 1457.6,
+      "end_time_text": "00:24:17,600",
+      "index": 521,
+      "start_time": 1453.4,
+      "start_time_text": "00:24:13,400",
+      "text": "gradually faded and a lot of Israelis"
+    },
+    {
+      "end_time": 1460.84,
+      "end_time_text": "00:24:20,840",
+      "index": 522,
+      "start_time": 1455.44,
+      "start_time_text": "00:24:15,440",
+      "text": "today think in terms of individual"
+    },
+    {
+      "end_time": 1462.279,
+      "end_time_text": "00:24:22,279",
+      "index": 523,
+      "start_time": 1457.6,
+      "start_time_text": "00:24:17,600",
+      "text": "success and then capitalism and all all"
+    },
+    {
+      "end_time": 1464.44,
+      "end_time_text": "00:24:24,440",
+      "index": 524,
+      "start_time": 1460.84,
+      "start_time_text": "00:24:20,840",
+      "text": "sorts of things which nothing to do with"
+    },
+    {
+      "end_time": 1466.76,
+      "end_time_text": "00:24:26,760",
+      "index": 525,
+      "start_time": 1462.279,
+      "start_time_text": "00:24:22,279",
+      "text": "the Zionism but Zionism was very"
+    },
+    {
+      "end_time": 1469.279,
+      "end_time_text": "00:24:29,279",
+      "index": 526,
+      "start_time": 1464.44,
+      "start_time_text": "00:24:24,440",
+      "text": "important but what I'm saying is that"
+    },
+    {
+      "end_time": 1471.72,
+      "end_time_text": "00:24:31,720",
+      "index": 527,
+      "start_time": 1466.76,
+      "start_time_text": "00:24:26,760",
+      "text": "the idea of transfer was wasn't the core"
+    },
+    {
+      "end_time": 1475.279,
+      "end_time_text": "00:24:35,279",
+      "index": 528,
+      "start_time": 1469.279,
+      "start_time_text": "00:24:29,279",
+      "text": "of Zionism the idea of Zionism was to"
+    },
+    {
+      "end_time": 1477.6,
+      "end_time_text": "00:24:37,600",
+      "index": 529,
+      "start_time": 1471.72,
+      "start_time_text": "00:24:31,720",
+      "text": "save the Jews who had been vastly"
+    },
+    {
+      "end_time": 1479.559,
+      "end_time_text": "00:24:39,559",
+      "index": 530,
+      "start_time": 1475.279,
+      "start_time_text": "00:24:35,279",
+      "text": "persecuted in Eastern Europe and"
+    },
+    {
+      "end_time": 1482.679,
+      "end_time_text": "00:24:42,679",
+      "index": 531,
+      "start_time": 1477.6,
+      "start_time_text": "00:24:37,600",
+      "text": "incidentally in the Arab world the"
+    },
+    {
+      "end_time": 1484.799,
+      "end_time_text": "00:24:44,799",
+      "index": 532,
+      "start_time": 1479.559,
+      "start_time_text": "00:24:39,559",
+      "text": "Muslim world for centuries um and"
+    },
+    {
+      "end_time": 1486.48,
+      "end_time_text": "00:24:46,480",
+      "index": 533,
+      "start_time": 1482.679,
+      "start_time_text": "00:24:42,679",
+      "text": "eventually ending up with the Holocaust"
+    },
+    {
+      "end_time": 1489.32,
+      "end_time_text": "00:24:49,320",
+      "index": 534,
+      "start_time": 1484.799,
+      "start_time_text": "00:24:44,799",
+      "text": "the idea of Zionism was to save the"
+    },
+    {
+      "end_time": 1491.799,
+      "end_time_text": "00:24:51,799",
+      "index": 535,
+      "start_time": 1486.48,
+      "start_time_text": "00:24:46,480",
+      "text": "Jewish people by establishing a state or"
+    },
+    {
+      "end_time": 1493.84,
+      "end_time_text": "00:24:53,840",
+      "index": 536,
+      "start_time": 1489.32,
+      "start_time_text": "00:24:49,320",
+      "text": "reestablishing a Jewish State on the"
+    },
+    {
+      "end_time": 1496.039,
+      "end_time_text": "00:24:56,039",
+      "index": 537,
+      "start_time": 1491.799,
+      "start_time_text": "00:24:51,799",
+      "text": "ancient Jewish homeland which is"
+    },
+    {
+      "end_time": 1497.88,
+      "end_time_text": "00:24:57,880",
+      "index": 538,
+      "start_time": 1493.84,
+      "start_time_text": "00:24:53,840",
+      "text": "something the Arabs today even deny that"
+    },
+    {
+      "end_time": 1500.919,
+      "end_time_text": "00:25:00,919",
+      "index": 539,
+      "start_time": 1496.039,
+      "start_time_text": "00:24:56,039",
+      "text": "there were Jews in Palestine or the land"
+    },
+    {
+      "end_time": 1503.24,
+      "end_time_text": "00:25:03,240",
+      "index": 540,
+      "start_time": 1497.88,
+      "start_time_text": "00:24:57,880",
+      "text": "of Israel well 2,000 years ago Arafat"
+    },
+    {
+      "end_time": 1505.559,
+      "end_time_text": "00:25:05,559",
+      "index": 541,
+      "start_time": 1500.919,
+      "start_time_text": "00:25:00,919",
+      "text": "famously said what Temple was there on"
+    },
+    {
+      "end_time": 1508.84,
+      "end_time_text": "00:25:08,840",
+      "index": 542,
+      "start_time": 1503.24,
+      "start_time_text": "00:25:03,240",
+      "text": "the Temple Mount maybe it was in Nablus"
+    },
+    {
+      "end_time": 1510.039,
+      "end_time_text": "00:25:10,039",
+      "index": 543,
+      "start_time": 1505.559,
+      "start_time_text": "00:25:05,559",
+      "text": "which of course is nonsense but but um"
+    },
+    {
+      "end_time": 1511.76,
+      "end_time_text": "00:25:11,760",
+      "index": 544,
+      "start_time": 1508.84,
+      "start_time_text": "00:25:08,840",
+      "text": "they had a connection a strong"
+    },
+    {
+      "end_time": 1514.24,
+      "end_time_text": "00:25:14,240",
+      "index": 545,
+      "start_time": 1510.039,
+      "start_time_text": "00:25:10,039",
+      "text": "connection for thousands of years to the"
+    },
+    {
+      "end_time": 1516.399,
+      "end_time_text": "00:25:16,399",
+      "index": 546,
+      "start_time": 1511.76,
+      "start_time_text": "00:25:11,760",
+      "text": "land to which they wanted to return and"
+    },
+    {
+      "end_time": 1518.44,
+      "end_time_text": "00:25:18,440",
+      "index": 547,
+      "start_time": 1514.24,
+      "start_time_text": "00:25:14,240",
+      "text": "returned there they found that on the"
+    },
+    {
+      "end_time": 1520.24,
+      "end_time_text": "00:25:20,240",
+      "index": 548,
+      "start_time": 1516.399,
+      "start_time_text": "00:25:16,399",
+      "text": "land lived hundreds of thousands of"
+    },
+    {
+      "end_time": 1522.679,
+      "end_time_text": "00:25:22,679",
+      "index": 549,
+      "start_time": 1518.44,
+      "start_time_text": "00:25:18,440",
+      "text": "Arabs and the question was how to"
+    },
+    {
+      "end_time": 1525.559,
+      "end_time_text": "00:25:25,559",
+      "index": 550,
+      "start_time": 1520.24,
+      "start_time_text": "00:25:20,240",
+      "text": "accommodate the vision of a Jewish state"
+    },
+    {
+      "end_time": 1528.919,
+      "end_time_text": "00:25:28,919",
+      "index": 551,
+      "start_time": 1522.679,
+      "start_time_text": "00:25:22,679",
+      "text": "in Palestine alongside the existence of"
+    },
+    {
+      "end_time": 1531.44,
+      "end_time_text": "00:25:31,440",
+      "index": 552,
+      "start_time": 1525.559,
+      "start_time_text": "00:25:25,559",
+      "text": "these um um Arab masses living who were"
+    },
+    {
+      "end_time": 1535.08,
+      "end_time_text": "00:25:35,080",
+      "index": 553,
+      "start_time": 1528.919,
+      "start_time_text": "00:25:28,919",
+      "text": "indigenous in fact to The Land by that"
+    },
+    {
+      "end_time": 1536.44,
+      "end_time_text": "00:25:36,440",
+      "index": 554,
+      "start_time": 1531.44,
+      "start_time_text": "00:25:31,440",
+      "text": "stage um and the idea of partition"
+    },
+    {
+      "end_time": 1538.279,
+      "end_time_text": "00:25:38,279",
+      "index": 555,
+      "start_time": 1535.08,
+      "start_time_text": "00:25:35,080",
+      "text": "because they couldn't live together"
+    },
+    {
+      "end_time": 1539.84,
+      "end_time_text": "00:25:39,840",
+      "index": 556,
+      "start_time": 1536.44,
+      "start_time_text": "00:25:36,440",
+      "text": "because the Arabs didn't want to live"
+    },
+    {
+      "end_time": 1541.799,
+      "end_time_text": "00:25:41,799",
+      "index": 557,
+      "start_time": 1538.279,
+      "start_time_text": "00:25:38,279",
+      "text": "together with the Jews and I think the"
+    },
+    {
+      "end_time": 1544.279,
+      "end_time_text": "00:25:44,279",
+      "index": 558,
+      "start_time": 1539.84,
+      "start_time_text": "00:25:39,840",
+      "text": "Jews also didn't want to live together"
+    },
+    {
+      "end_time": 1547.279,
+      "end_time_text": "00:25:47,279",
+      "index": 559,
+      "start_time": 1541.799,
+      "start_time_text": "00:25:41,799",
+      "text": "in one state with Arabs in general the"
+    },
+    {
+      "end_time": 1549.96,
+      "end_time_text": "00:25:49,960",
+      "index": 560,
+      "start_time": 1544.279,
+      "start_time_text": "00:25:44,279",
+      "text": "idea of partition was the thing which um"
+    },
+    {
+      "end_time": 1552.32,
+      "end_time_text": "00:25:52,320",
+      "index": 561,
+      "start_time": 1547.279,
+      "start_time_text": "00:25:47,279",
+      "text": "the zionists accepted okay we can we can"
+    },
+    {
+      "end_time": 1555.48,
+      "end_time_text": "00:25:55,480",
+      "index": 562,
+      "start_time": 1549.96,
+      "start_time_text": "00:25:49,960",
+      "text": "only get a small part of Palestine the"
+    },
+    {
+      "end_time": 1558.799,
+      "end_time_text": "00:25:58,799",
+      "index": 563,
+      "start_time": 1552.32,
+      "start_time_text": "00:25:52,320",
+      "text": "Arabs will get in 37 most of Palestine"
+    },
+    {
+      "end_time": 1562.08,
+      "end_time_text": "00:26:02,080",
+      "index": 564,
+      "start_time": 1555.48,
+      "start_time_text": "00:25:55,480",
+      "text": "in 1947 the the ratios were changed"
+    },
+    {
+      "end_time": 1564.24,
+      "end_time_text": "00:26:04,240",
+      "index": 565,
+      "start_time": 1558.799,
+      "start_time_text": "00:25:58,799",
+      "text": "but we can we can live side by side with"
+    },
+    {
+      "end_time": 1566.36,
+      "end_time_text": "00:26:06,360",
+      "index": 566,
+      "start_time": 1562.08,
+      "start_time_text": "00:26:02,080",
+      "text": "each other in a partitioned Palestine"
+    },
+    {
+      "end_time": 1569.679,
+      "end_time_text": "00:26:09,679",
+      "index": 567,
+      "start_time": 1564.24,
+      "start_time_text": "00:26:04,240",
+      "text": "and this was the essence of it the idea"
+    },
+    {
+      "end_time": 1572.32,
+      "end_time_text": "00:26:12,320",
+      "index": 568,
+      "start_time": 1566.36,
+      "start_time_text": "00:26:06,360",
+      "text": "of transfer was there but it was never"
+    },
+    {
+      "end_time": 1574.919,
+      "end_time_text": "00:26:14,919",
+      "index": 569,
+      "start_time": 1569.679,
+      "start_time_text": "00:26:09,679",
+      "text": "adopted but as policy but in"
+    },
+    {
+      "end_time": 1577.0,
+      "end_time_text": "00:26:17,000",
+      "index": 570,
+      "start_time": 1572.32,
+      "start_time_text": "00:26:12,320",
+      "text": "1947-48 the Arabs attacked trying to"
+    },
+    {
+      "end_time": 1578.919,
+      "end_time_text": "00:26:18,919",
+      "index": 571,
+      "start_time": 1574.919,
+      "start_time_text": "00:26:14,919",
+      "text": "destroy essentially the Jewish the"
+    },
+    {
+      "end_time": 1582.6,
+      "end_time_text": "00:26:22,600",
+      "index": 572,
+      "start_time": 1577.0,
+      "start_time_text": "00:26:17,000",
+      "text": "Zionist Enterprise and the emerging"
+    },
+    {
+      "end_time": 1586.0,
+      "end_time_text": "00:26:26,000",
+      "index": 573,
+      "start_time": 1578.919,
+      "start_time_text": "00:26:18,919",
+      "text": "Jewish State and a um the reaction was"
+    },
+    {
+      "end_time": 1587.799,
+      "end_time_text": "00:26:27,799",
+      "index": 574,
+      "start_time": 1582.6,
+      "start_time_text": "00:26:22,600",
+      "text": "transfer in some way not as policy but"
+    },
+    {
+      "end_time": 1590.159,
+      "end_time_text": "00:26:30,159",
+      "index": 575,
+      "start_time": 1586.0,
+      "start_time_text": "00:26:26,000",
+      "text": "this is what happened on the battlefield"
+    },
+    {
+      "end_time": 1593.399,
+      "end_time_text": "00:26:33,399",
+      "index": 576,
+      "start_time": 1587.799,
+      "start_time_text": "00:26:27,799",
+      "text": "and this is also what Boran at some"
+    },
+    {
+      "end_time": 1596.52,
+      "end_time_text": "00:26:36,520",
+      "index": 577,
+      "start_time": 1590.159,
+      "start_time_text": "00:26:30,159",
+      "text": "point began to want as well right well"
+    },
+    {
+      "end_time": 1599.76,
+      "end_time_text": "00:26:39,760",
+      "index": 578,
+      "start_time": 1593.399,
+      "start_time_text": "00:26:33,399",
+      "text": "you know one of the first um books on"
+    },
+    {
+      "end_time": 1602.32,
+      "end_time_text": "00:26:42,320",
+      "index": 579,
+      "start_time": 1596.52,
+      "start_time_text": "00:26:36,520",
+      "text": "this issue uh I read uh when I was still"
+    },
+    {
+      "end_time": 1605.0,
+      "end_time_text": "00:26:45,000",
+      "index": 580,
+      "start_time": 1599.76,
+      "start_time_text": "00:26:39,760",
+      "text": "in high school because my my late father"
+    },
+    {
+      "end_time": 1608.12,
+      "end_time_text": "00:26:48,120",
+      "index": 581,
+      "start_time": 1602.32,
+      "start_time_text": "00:26:42,320",
+      "text": "had it was the Diaries of Theodore"
+    },
+    {
+      "end_time": 1611.24,
+      "end_time_text": "00:26:51,240",
+      "index": 582,
+      "start_time": 1605.0,
+      "start_time_text": "00:26:45,000",
+      "text": "Herzel and I think you know theore"
+    },
+    {
+      "end_time": 1614.36,
+      "end_time_text": "00:26:54,360",
+      "index": 583,
+      "start_time": 1608.12,
+      "start_time_text": "00:26:48,120",
+      "text": "Herzel of course was was the founder of"
+    },
+    {
+      "end_time": 1616.919,
+      "end_time_text": "00:26:56,919",
+      "index": 584,
+      "start_time": 1611.24,
+      "start_time_text": "00:26:51,240",
+      "text": "of the Contemporary Zionist movement and"
+    },
+    {
+      "end_time": 1620.6,
+      "end_time_text": "00:27:00,600",
+      "index": 585,
+      "start_time": 1614.36,
+      "start_time_text": "00:26:54,360",
+      "text": "I think if you read that it's very clear"
+    },
+    {
+      "end_time": 1624.12,
+      "end_time_text": "00:27:04,120",
+      "index": 586,
+      "start_time": 1616.919,
+      "start_time_text": "00:26:56,919",
+      "text": "for Herzel the the model upon which the"
+    },
+    {
+      "end_time": 1628.039,
+      "end_time_text": "00:27:08,039",
+      "index": 587,
+      "start_time": 1620.6,
+      "start_time_text": "00:27:00,600",
+      "text": "Zionist movement would uh would proceed"
+    },
+    {
+      "end_time": 1630.0,
+      "end_time_text": "00:27:10,000",
+      "index": 588,
+      "start_time": 1624.12,
+      "start_time_text": "00:27:04,120",
+      "text": "his model was cesil rhods his um I think"
+    },
+    {
+      "end_time": 1632.039,
+      "end_time_text": "00:27:12,039",
+      "index": 589,
+      "start_time": 1628.039,
+      "start_time_text": "00:27:08,039",
+      "text": "you know roads from what I recall"
+    },
+    {
+      "end_time": 1635.08,
+      "end_time_text": "00:27:15,080",
+      "index": 590,
+      "start_time": 1630.0,
+      "start_time_text": "00:27:10,000",
+      "text": "correct me if I'm wrong has quite a"
+    },
+    {
+      "end_time": 1638.24,
+      "end_time_text": "00:27:18,240",
+      "index": 591,
+      "start_time": 1632.039,
+      "start_time_text": "00:27:12,039",
+      "text": "prominent place in uh hertel's Diaries I"
+    },
+    {
+      "end_time": 1640.6,
+      "end_time_text": "00:27:20,600",
+      "index": 592,
+      "start_time": 1635.08,
+      "start_time_text": "00:27:15,080",
+      "text": "think Herzel was also corresponding uh"
+    },
+    {
+      "end_time": 1645.039,
+      "end_time_text": "00:27:25,039",
+      "index": 593,
+      "start_time": 1638.24,
+      "start_time_text": "00:27:18,240",
+      "text": "with him and seeking his support cesil"
+    },
+    {
+      "end_time": 1647.84,
+      "end_time_text": "00:27:27,840",
+      "index": 594,
+      "start_time": 1640.6,
+      "start_time_text": "00:27:20,600",
+      "text": "rhods of course was um uh was the uh"
+    },
+    {
+      "end_time": 1650.679,
+      "end_time_text": "00:27:30,679",
+      "index": 595,
+      "start_time": 1645.039,
+      "start_time_text": "00:27:25,039",
+      "text": "British um colonialist after whom the"
+    },
+    {
+      "end_time": 1651.52,
+      "end_time_text": "00:27:31,520",
+      "index": 596,
+      "start_time": 1647.84,
+      "start_time_text": "00:27:27,840",
+      "text": "for former white minority regime in uh"
+    },
+    {
+      "end_time": 1655.64,
+      "end_time_text": "00:27:35,640",
+      "index": 597,
+      "start_time": 1650.679,
+      "start_time_text": "00:27:30,679",
+      "text": "in"
+    },
+    {
+      "end_time": 1659.24,
+      "end_time_text": "00:27:39,240",
+      "index": 598,
+      "start_time": 1651.52,
+      "start_time_text": "00:27:31,520",
+      "text": "rudia uh was named and Herzel also says"
+    },
+    {
+      "end_time": 1664.36,
+      "end_time_text": "00:27:44,360",
+      "index": 599,
+      "start_time": 1655.64,
+      "start_time_text": "00:27:35,640",
+      "text": "explicitly in his diaries that it is"
+    },
+    {
+      "end_time": 1666.279,
+      "end_time_text": "00:27:46,279",
+      "index": 600,
+      "start_time": 1659.24,
+      "start_time_text": "00:27:39,240",
+      "text": "essential um to remove uh the existing"
+    },
+    {
+      "end_time": 1668.44,
+      "end_time_text": "00:27:48,440",
+      "index": 601,
+      "start_time": 1664.36,
+      "start_time_text": "00:27:44,360",
+      "text": "population from Palestine can I respond"
+    },
+    {
+      "end_time": 1670.32,
+      "end_time_text": "00:27:50,320",
+      "index": 602,
+      "start_time": 1666.279,
+      "start_time_text": "00:27:46,279",
+      "text": "to this in a moment please he says we"
+    },
+    {
+      "end_time": 1672.48,
+      "end_time_text": "00:27:52,480",
+      "index": 603,
+      "start_time": 1668.44,
+      "start_time_text": "00:27:48,440",
+      "text": "shall have to Spirit the penniless"
+    },
+    {
+      "end_time": 1674.799,
+      "end_time_text": "00:27:54,799",
+      "index": 604,
+      "start_time": 1670.32,
+      "start_time_text": "00:27:50,320",
+      "text": "population across the borders and"
+    },
+    {
+      "end_time": 1676.519,
+      "end_time_text": "00:27:56,519",
+      "index": 605,
+      "start_time": 1672.48,
+      "start_time_text": "00:27:52,480",
+      "text": "procure employment for them elsewhere or"
+    },
+    {
+      "end_time": 1678.919,
+      "end_time_text": "00:27:58,919",
+      "index": 606,
+      "start_time": 1674.799,
+      "start_time_text": "00:27:54,799",
+      "text": "something and and Israel Zang who you"
+    },
+    {
+      "end_time": 1680.96,
+      "end_time_text": "00:28:00,960",
+      "index": 607,
+      "start_time": 1676.519,
+      "start_time_text": "00:27:56,519",
+      "text": "mentioned a land without people for a"
+    },
+    {
+      "end_time": 1683.559,
+      "end_time_text": "00:28:03,559",
+      "index": 608,
+      "start_time": 1678.919,
+      "start_time_text": "00:27:58,919",
+      "text": "people without a land they knew damn"
+    },
+    {
+      "end_time": 1685.799,
+      "end_time_text": "00:28:05,799",
+      "index": 609,
+      "start_time": 1680.96,
+      "start_time_text": "00:28:00,960",
+      "text": "well it wasn't a people a land without a"
+    },
+    {
+      "end_time": 1688.76,
+      "end_time_text": "00:28:08,760",
+      "index": 610,
+      "start_time": 1683.559,
+      "start_time_text": "00:28:03,559",
+      "text": "people um I'll continue but I'll but"
+    },
+    {
+      "end_time": 1693.24,
+      "end_time_text": "00:28:13,240",
+      "index": 611,
+      "start_time": 1685.799,
+      "start_time_text": "00:28:05,799",
+      "text": "please goad just to this there is one"
+    },
+    {
+      "end_time": 1695.36,
+      "end_time_text": "00:28:15,360",
+      "index": 612,
+      "start_time": 1688.76,
+      "start_time_text": "00:28:08,760",
+      "text": "small diary entry in herzl's vast five"
+    },
+    {
+      "end_time": 1697.48,
+      "end_time_text": "00:28:17,480",
+      "index": 613,
+      "start_time": 1693.24,
+      "start_time_text": "00:28:13,240",
+      "text": "volumes yeah five volumes there's one"
+    },
+    {
+      "end_time": 1699.799,
+      "end_time_text": "00:28:19,799",
+      "index": 614,
+      "start_time": 1695.36,
+      "start_time_text": "00:28:15,360",
+      "text": "paragraph which actually mentions the"
+    },
+    {
+      "end_time": 1701.48,
+      "end_time_text": "00:28:21,480",
+      "index": 615,
+      "start_time": 1697.48,
+      "start_time_text": "00:28:17,480",
+      "text": "idea of transfer there are people who"
+    },
+    {
+      "end_time": 1703.519,
+      "end_time_text": "00:28:23,519",
+      "index": 616,
+      "start_time": 1699.799,
+      "start_time_text": "00:28:19,799",
+      "text": "think that Herzel was actually pointing"
+    },
+    {
+      "end_time": 1705.279,
+      "end_time_text": "00:28:25,279",
+      "index": 617,
+      "start_time": 1701.48,
+      "start_time_text": "00:28:21,480",
+      "text": "to South America when he was talking"
+    },
+    {
+      "end_time": 1707.799,
+      "end_time_text": "00:28:27,799",
+      "index": 618,
+      "start_time": 1703.519,
+      "start_time_text": "00:28:23,519",
+      "text": "about that the Jews were going to move"
+    },
+    {
+      "end_time": 1711.32,
+      "end_time_text": "00:28:31,320",
+      "index": 619,
+      "start_time": 1705.279,
+      "start_time_text": "00:28:25,279",
+      "text": "to Argentina and then they would try and"
+    },
+    {
+      "end_time": 1714.88,
+      "end_time_text": "00:28:34,880",
+      "index": 620,
+      "start_time": 1707.799,
+      "start_time_text": "00:28:27,799",
+      "text": "a um buy out or buy off or Spirit the"
+    },
+    {
+      "end_time": 1716.96,
+      "end_time_text": "00:28:36,960",
+      "index": 621,
+      "start_time": 1711.32,
+      "start_time_text": "00:28:31,320",
+      "text": "the penniless natives um to make way for"
+    },
+    {
+      "end_time": 1718.44,
+      "end_time_text": "00:28:38,440",
+      "index": 622,
+      "start_time": 1714.88,
+      "start_time_text": "00:28:34,880",
+      "text": "Jewish settlement maybe he wasn't even"
+    },
+    {
+      "end_time": 1720.64,
+      "end_time_text": "00:28:40,640",
+      "index": 623,
+      "start_time": 1716.96,
+      "start_time_text": "00:28:36,960",
+      "text": "talking about the Arabs in that"
+    },
+    {
+      "end_time": 1722.399,
+      "end_time_text": "00:28:42,399",
+      "index": 624,
+      "start_time": 1718.44,
+      "start_time_text": "00:28:38,440",
+      "text": "particular passage that's the argument"
+    },
+    {
+      "end_time": 1727.76,
+      "end_time_text": "00:28:47,760",
+      "index": 625,
+      "start_time": 1720.64,
+      "start_time_text": "00:28:40,640",
+      "text": "of some people maybe he was but the"
+    },
+    {
+      "end_time": 1730.559,
+      "end_time_text": "00:28:50,559",
+      "index": 626,
+      "start_time": 1722.399,
+      "start_time_text": "00:28:42,399",
+      "text": "point is it it has only a one 100th of a"
+    },
+    {
+      "end_time": 1733.32,
+      "end_time_text": "00:28:53,320",
+      "index": 627,
+      "start_time": 1727.76,
+      "start_time_text": "00:28:47,760",
+      "text": "1% of the Diary which is devoted to the"
+    },
+    {
+      "end_time": 1735.559,
+      "end_time_text": "00:28:55,559",
+      "index": 628,
+      "start_time": 1730.559,
+      "start_time_text": "00:28:50,559",
+      "text": "subject it's not a central idea in"
+    },
+    {
+      "end_time": 1737.0,
+      "end_time_text": "00:28:57,000",
+      "index": 629,
+      "start_time": 1733.32,
+      "start_time_text": "00:28:53,320",
+      "text": "Herzel in herz's thinking the what"
+    },
+    {
+      "end_time": 1739.12,
+      "end_time_text": "00:28:59,120",
+      "index": 630,
+      "start_time": 1735.559,
+      "start_time_text": "00:28:55,559",
+      "text": "Herzel wanted and this is what's"
+    },
+    {
+      "end_time": 1742.399,
+      "end_time_text": "00:29:02,399",
+      "index": 631,
+      "start_time": 1737.0,
+      "start_time_text": "00:28:57,000",
+      "text": "important not roads I don't think he was"
+    },
+    {
+      "end_time": 1746.279,
+      "end_time_text": "00:29:06,279",
+      "index": 632,
+      "start_time": 1739.12,
+      "start_time_text": "00:28:59,120",
+      "text": "the model Herzel wanted to create a"
+    },
+    {
+      "end_time": 1748.2,
+      "end_time_text": "00:29:08,200",
+      "index": 633,
+      "start_time": 1742.399,
+      "start_time_text": "00:29:02,399",
+      "text": "liberal Democratic Western State in"
+    },
+    {
+      "end_time": 1751.88,
+      "end_time_text": "00:29:11,880",
+      "index": 634,
+      "start_time": 1746.279,
+      "start_time_text": "00:29:06,279",
+      "text": "Palestine for the Jews that's that was"
+    },
+    {
+      "end_time": 1754.36,
+      "end_time_text": "00:29:14,360",
+      "index": 635,
+      "start_time": 1748.2,
+      "start_time_text": "00:29:08,200",
+      "text": "the idea not some Imperial Enterprise"
+    },
+    {
+      "end_time": 1756.96,
+      "end_time_text": "00:29:16,960",
+      "index": 636,
+      "start_time": 1751.88,
+      "start_time_text": "00:29:11,880",
+      "text": "serving some Imperial Master which is"
+    },
+    {
+      "end_time": 1759.279,
+      "end_time_text": "00:29:19,279",
+      "index": 637,
+      "start_time": 1754.36,
+      "start_time_text": "00:29:14,360",
+      "text": "what rhs was about but to have a Jewish"
+    },
+    {
+      "end_time": 1761.559,
+      "end_time_text": "00:29:21,559",
+      "index": 638,
+      "start_time": 1756.96,
+      "start_time_text": "00:29:16,960",
+      "text": "state which was modeled on the western"
+    },
+    {
+      "end_time": 1763.399,
+      "end_time_text": "00:29:23,399",
+      "index": 639,
+      "start_time": 1759.279,
+      "start_time_text": "00:29:19,279",
+      "text": "democracies in in Palestine and this"
+    },
+    {
+      "end_time": 1766.32,
+      "end_time_text": "00:29:26,320",
+      "index": 640,
+      "start_time": 1761.559,
+      "start_time_text": "00:29:21,559",
+      "text": "incidentally was more or less what"
+    },
+    {
+      "end_time": 1768.559,
+      "end_time_text": "00:29:28,559",
+      "index": 641,
+      "start_time": 1763.399,
+      "start_time_text": "00:29:23,399",
+      "text": "whitesman and Boran borian wanted they"
+    },
+    {
+      "end_time": 1772.0,
+      "end_time_text": "00:29:32,000",
+      "index": 642,
+      "start_time": 1766.32,
+      "start_time_text": "00:29:26,320",
+      "text": "borian was more of a socialist White was"
+    },
+    {
+      "end_time": 1774.2,
+      "end_time_text": "00:29:34,200",
+      "index": 643,
+      "start_time": 1768.559,
+      "start_time_text": "00:29:28,559",
+      "text": "more of a liberal um Westerner but they"
+    },
+    {
+      "end_time": 1777.64,
+      "end_time_text": "00:29:37,640",
+      "index": 644,
+      "start_time": 1772.0,
+      "start_time_text": "00:29:32,000",
+      "text": "wanted to establish a Social Democratic"
+    },
+    {
+      "end_time": 1779.72,
+      "end_time_text": "00:29:39,720",
+      "index": 645,
+      "start_time": 1774.2,
+      "start_time_text": "00:29:34,200",
+      "text": "or liberal state in Palestine and they"
+    },
+    {
+      "end_time": 1782.0,
+      "end_time_text": "00:29:42,000",
+      "index": 646,
+      "start_time": 1777.64,
+      "start_time_text": "00:29:37,640",
+      "text": "both envisioned through most of the"
+    },
+    {
+      "end_time": 1784.12,
+      "end_time_text": "00:29:44,120",
+      "index": 647,
+      "start_time": 1779.72,
+      "start_time_text": "00:29:39,720",
+      "text": "years of their act activity that there"
+    },
+    {
+      "end_time": 1786.279,
+      "end_time_text": "00:29:46,279",
+      "index": 648,
+      "start_time": 1782.0,
+      "start_time_text": "00:29:42,000",
+      "text": "would be an Arab minority in that Jewish"
+    },
+    {
+      "end_time": 1788.799,
+      "end_time_text": "00:29:48,799",
+      "index": 649,
+      "start_time": 1784.12,
+      "start_time_text": "00:29:44,120",
+      "text": "State it's true that benguan strive to"
+    },
+    {
+      "end_time": 1790.559,
+      "end_time_text": "00:29:50,559",
+      "index": 650,
+      "start_time": 1786.279,
+      "start_time_text": "00:29:46,279",
+      "text": "have as small as possible an Arab"
+    },
+    {
+      "end_time": 1793.0,
+      "end_time_text": "00:29:53,000",
+      "index": 651,
+      "start_time": 1788.799,
+      "start_time_text": "00:29:48,799",
+      "text": "minority in the Jewish State because he"
+    },
+    {
+      "end_time": 1795.679,
+      "end_time_text": "00:29:55,679",
+      "index": 652,
+      "start_time": 1790.559,
+      "start_time_text": "00:29:50,559",
+      "text": "knew that if you want a Jewish majority"
+    },
+    {
+      "end_time": 1797.039,
+      "end_time_text": "00:29:57,039",
+      "index": 653,
+      "start_time": 1793.0,
+      "start_time_text": "00:29:53,000",
+      "text": "state that that would be necessary but"
+    },
+    {
+      "end_time": 1798.559,
+      "end_time_text": "00:29:58,559",
+      "index": 654,
+      "start_time": 1795.679,
+      "start_time_text": "00:29:55,679",
+      "text": "it's not something which they were"
+    },
+    {
+      "end_time": 1801.399,
+      "end_time_text": "00:30:01,399",
+      "index": 655,
+      "start_time": 1797.039,
+      "start_time_text": "00:29:57,039",
+      "text": "willing to translate"
+    },
+    {
+      "end_time": 1802.799,
+      "end_time_text": "00:30:02,799",
+      "index": 656,
+      "start_time": 1798.559,
+      "start_time_text": "00:29:58,559",
+      "text": "into actual policy uh just a quick pause"
+    },
+    {
+      "end_time": 1805.08,
+      "end_time_text": "00:30:05,080",
+      "index": 657,
+      "start_time": 1801.399,
+      "start_time_text": "00:30:01,399",
+      "text": "to mention that for people who are not"
+    },
+    {
+      "end_time": 1807.279,
+      "end_time_text": "00:30:07,279",
+      "index": 658,
+      "start_time": 1802.799,
+      "start_time_text": "00:30:02,799",
+      "text": "familiar The Herzel we're talking about"
+    },
+    {
+      "end_time": 1810.159,
+      "end_time_text": "00:30:10,159",
+      "index": 659,
+      "start_time": 1805.08,
+      "start_time_text": "00:30:05,080",
+      "text": "over a century ago and everything we've"
+    },
+    {
+      "end_time": 1812.72,
+      "end_time_text": "00:30:12,720",
+      "index": 660,
+      "start_time": 1807.279,
+      "start_time_text": "00:30:07,279",
+      "text": "been talking about has been mostly 1948"
+    },
+    {
+      "end_time": 1814.519,
+      "end_time_text": "00:30:14,519",
+      "index": 661,
+      "start_time": 1810.159,
+      "start_time_text": "00:30:10,159",
+      "text": "and before yes just one clarification on"
+    },
+    {
+      "end_time": 1816.36,
+      "end_time_text": "00:30:16,360",
+      "index": 662,
+      "start_time": 1812.72,
+      "start_time_text": "00:30:12,720",
+      "text": "herzl's Diaries I mean the other thing"
+    },
+    {
+      "end_time": 1820.2,
+      "end_time_text": "00:30:20,200",
+      "index": 663,
+      "start_time": 1814.519,
+      "start_time_text": "00:30:14,519",
+      "text": "that I recall from those Diaries is he"
+    },
+    {
+      "end_time": 1822.6,
+      "end_time_text": "00:30:22,600",
+      "index": 664,
+      "start_time": 1816.36,
+      "start_time_text": "00:30:16,360",
+      "text": "was um he was very preoccupied with in"
+    },
+    {
+      "end_time": 1826.039,
+      "end_time_text": "00:30:26,039",
+      "index": 665,
+      "start_time": 1820.2,
+      "start_time_text": "00:30:20,200",
+      "text": "fact getting great power patronage"
+    },
+    {
+      "end_time": 1828.36,
+      "end_time_text": "00:30:28,360",
+      "index": 666,
+      "start_time": 1822.6,
+      "start_time_text": "00:30:22,600",
+      "text": "seeing Palestine um the Jewish state in"
+    },
+    {
+      "end_time": 1831.159,
+      "end_time_text": "00:30:31,159",
+      "index": 667,
+      "start_time": 1826.039,
+      "start_time_text": "00:30:26,039",
+      "text": "Palestine I think his words and out post"
+    },
+    {
+      "end_time": 1834.6,
+      "end_time_text": "00:30:34,600",
+      "index": 668,
+      "start_time": 1828.36,
+      "start_time_text": "00:30:28,360",
+      "text": "of civilization against barbarism yes in"
+    },
+    {
+      "end_time": 1837.64,
+      "end_time_text": "00:30:37,640",
+      "index": 669,
+      "start_time": 1831.159,
+      "start_time_text": "00:30:31,159",
+      "text": "other words very much um seeing his"
+    },
+    {
+      "end_time": 1839.36,
+      "end_time_text": "00:30:39,360",
+      "index": 670,
+      "start_time": 1834.6,
+      "start_time_text": "00:30:34,600",
+      "text": "project as a prox as a proxy for Western"
+    },
+    {
+      "end_time": 1841.72,
+      "end_time_text": "00:30:41,720",
+      "index": 671,
+      "start_time": 1837.64,
+      "start_time_text": "00:30:37,640",
+      "text": "imperialism in the Middle East right"
+    },
+    {
+      "end_time": 1843.679,
+      "end_time_text": "00:30:43,679",
+      "index": 672,
+      "start_time": 1839.36,
+      "start_time_text": "00:30:39,360",
+      "text": "word not proxy he wanted to establish a"
+    },
+    {
+      "end_time": 1845.64,
+      "end_time_text": "00:30:45,640",
+      "index": 673,
+      "start_time": 1841.72,
+      "start_time_text": "00:30:41,720",
+      "text": "Jewish state which would be independent"
+    },
+    {
+      "end_time": 1848.44,
+      "end_time_text": "00:30:48,440",
+      "index": 674,
+      "start_time": 1843.679,
+      "start_time_text": "00:30:43,679",
+      "text": "to get that he hoped that he would be"
+    },
+    {
+      "end_time": 1850.519,
+      "end_time_text": "00:30:50,519",
+      "index": 675,
+      "start_time": 1845.64,
+      "start_time_text": "00:30:45,640",
+      "text": "able to Garner support from major"
+    },
+    {
+      "end_time": 1854.96,
+      "end_time_text": "00:30:54,960",
+      "index": 676,
+      "start_time": 1848.44,
+      "start_time_text": "00:30:48,440",
+      "text": "Imperial Powers including the including"
+    },
+    {
+      "end_time": 1854.96,
+      "end_time_text": "00:30:54,960",
+      "index": 677,
+      "start_time": 1850.519,
+      "start_time_text": "00:30:50,519",
+      "text": "the ottoman Sultan he tried to"
+    },
+    {
+      "end_time": 1859.919,
+      "end_time_text": "00:30:59,919",
+      "index": 678,
+      "start_time": 1856.919,
+      "start_time_text": "00:30:56,919",
+      "text": "cultivate"
+    },
+    {
+      "end_time": 1875.72,
+      "end_time_text": "00:31:15,720",
+      "index": 679,
+      "start_time": 1872.72,
+      "start_time_text": "00:31:12,720",
+      "text": "for"
+    }
+  ],
+  "video_duration": 1874,
+  "video_id": "n2UXp2CqpG4",
+  "video_title": "Norman Finkelstein vs Benny Morris debate Palestine history | Israel-Palestine Debate"
+}

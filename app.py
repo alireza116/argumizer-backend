@@ -58,6 +58,36 @@ def get_parsed_transcript():
     
     return jsonify(response)
 
+@app.route('/transcript/summary', methods=['GET'])
+def get_summary_transcript():
+    """Get a summary transcript with only video_title, index, start_time_text, and text"""
+    video_url = request.args.get('url')
+    lang = request.args.get('lang', 'en')
+    
+    if not video_url:
+        return jsonify({'error': 'Missing video URL parameter'}), 400
+    
+    result = get_video_transcript(video_url, lang)
+    
+    if 'error' in result:
+        return jsonify(result), 400
+    
+    # Prepare summary transcript
+    summary = [
+        {
+            'index': item['index'],
+            'start_time_text': item['start_time_text'],
+            'text': item['text']
+        }
+        for item in result['transcript']['parsed']
+    ]
+    
+    return jsonify({
+        'success': True,
+        'video_title': result['video_title'],
+        'transcript': summary
+    })
+
 @app.route('/health', methods=['GET'])
 def health_check():
     return jsonify({'status': 'healthy'})
