@@ -40,7 +40,7 @@ def analyze_with_vertex_ai(transcript_data):
     
     try:
         analyzer = DebateTranscriptAnalyzer(
-            project_id="skydenai",
+            project_id="PROJECT-ID",
             location="us-central1"
         )
         
