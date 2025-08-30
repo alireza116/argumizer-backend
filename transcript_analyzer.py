@@ -259,7 +259,7 @@ class DebateTranscriptAnalyzer:
 # Usage example
 def main():
     # Initialize analyzer (replace with your project ID)
-    analyzer = DebateTranscriptAnalyzer(project_id="PROJECT-ID")
+    analyzer = DebateTranscriptAnalyzer(project_id="argumizer")
     
     # Load your transcript data
     transcript_data = {
